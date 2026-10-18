@@ -15,6 +15,7 @@ This is the current working essay. It develops the six-part refrain analysis wit
 ├── README.md
 ├── Will-The-Computer-Love-The-Sunset.md
 ├── versions/
+│   ├── Version-0.md
 │   ├── 2026-10-18-version-minus-6b-hypnotic-refrain-three-temporal-scales.md
 │   ├── 2026-10-18-version-minus-6a-nested-timescales-and-hypnotic-refrain.md
 │   ├── 2026-10-18-version-minus-5-nested-timescales-and-hypnotic-refrain.md
@@ -27,9 +28,10 @@ This is the current working essay. It develops the six-part refrain analysis wit
 │   ├── opening-discussion/
 │   │   ├── interpretive-history.md
 │   │   └── retrospective-foreshadowing-and-the-computer.md
-│   └── reddit-comments/
-│       ├── 01-original-comment.md
-│       └── 02-expanded-follow-up-comment.md
+│   ├── reddit-comments/
+│   │   ├── 01-original-comment.md
+│   │   └── 02-expanded-follow-up-comment.md
+│   └── version-minus-6a-6b-development-notes.md
 └── inference/
     └── source-and-claim-register.md
 ```
@@ -39,11 +41,12 @@ The repository root intentionally contains only the current essay and this READM
 ## Suggested reading order
 
 1. **Current essay:** read [the latest interpretation](Will-The-Computer-Love-The-Sunset.md).
-2. **Interpretive history:** read [the opening discussion and interpretive history](context/opening-discussion/interpretive-history.md) to see how the analysis developed.
-3. **Key interpretive development:** read [retrospective foreshadowing, “our story,” and “The Computer”](context/opening-discussion/retrospective-foreshadowing-and-the-computer.md).
-4. **Source provenance:** review the [original Reddit comment record](context/reddit-comments/01-original-comment.md) and [expanded follow-up record](context/reddit-comments/02-expanded-follow-up-comment.md).
-5. **Interpretive boundaries:** consult the [source and claim register](inference/source-and-claim-register.md).
-6. **Historical comparison:** compare the current essay with [Version -1](versions/2026-10-18-version-minus-1-recursive-interpretation.md), [Version -2](versions/2026-10-18-version-minus-2-recursive-interpretation.md), [Version -3](versions/2026-10-18-version-minus-3-recursive-interpretation.md), [Version -4](versions/2026-10-18-version-minus-4-hypnotic-repetition-and-nested-timescales.md), [Version -5](versions/2026-10-18-version-minus-5-nested-timescales-and-hypnotic-refrain.md), [Version -6A](versions/2026-10-18-version-minus-6a-nested-timescales-and-hypnotic-refrain.md), and [Version -6B](versions/2026-10-18-version-minus-6b-hypnotic-refrain-three-temporal-scales.md).
+2. **Editorial development notes:** read the [Version -6A/-6B development notes](context/version-minus-6a-6b-development-notes.md) for the competing openings, the rationale for the preferred sequence, and the editorial reasoning behind the latest structural refinements.
+3. **Interpretive history:** read [the opening discussion and interpretive history](context/opening-discussion/interpretive-history.md) to see how the analysis developed.
+4. **Key interpretive development:** read [retrospective foreshadowing, “our story,” and “The Computer”](context/opening-discussion/retrospective-foreshadowing-and-the-computer.md).
+5. **Source provenance:** review the [original Reddit comment record](context/reddit-comments/01-original-comment.md) and [expanded follow-up record](context/reddit-comments/02-expanded-follow-up-comment.md).
+6. **Interpretive boundaries:** consult the [source and claim register](inference/source-and-claim-register.md).
+7. **Historical comparison:** compare the current essay with [Version -1](versions/2026-10-18-version-minus-1-recursive-interpretation.md), [Version -2](versions/2026-10-18-version-minus-2-recursive-interpretation.md), [Version -3](versions/2026-10-18-version-minus-3-recursive-interpretation.md), [Version -4](versions/2026-10-18-version-minus-4-hypnotic-repetition-and-nested-timescales.md), [Version -5](versions/2026-10-18-version-minus-5-nested-timescales-and-hypnotic-refrain.md), [Version -6A](versions/2026-10-18-version-minus-6a-nested-timescales-and-hypnotic-refrain.md), and [Version -6B](versions/2026-10-18-version-minus-6b-hypnotic-refrain-three-temporal-scales.md), plus the [Version 0 snapshot](versions/Version-0.md).
 
 ## Version history at a glance
 
