@@ -31,7 +31,8 @@ This is the current working essay. It develops the six-part refrain analysis wit
 │   ├── reddit-comments/
 │   │   ├── 01-original-comment.md
 │   │   └── 02-expanded-follow-up-comment.md
-│   └── version-minus-6a-6b-development-notes.md
+│   ├── version-minus-6a-6b-development-notes.md
+│   └── open-questions.md
 └── inference/
     └── source-and-claim-register.md
 ```
