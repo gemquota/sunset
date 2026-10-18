@@ -9,6 +9,7 @@ A structured archive of an evolving interpretation of Jesse Welles's *Will The C
 - [Revised six-part essay](essays/versions/2026-10-18-revised-six-part-analysis.md): later revised version.
 - [Previous-version recovery note](essays/versions/previous-version-recovery-note.md): provenance note documenting recovery of the earlier draft.
 - [Opening discussion and interpretive history](context/opening-discussion/interpretive-history.md): how the interpretation developed.
+- [Retrospective foreshadowing, “our story,” and “The Computer”](context/opening-discussion/retrospective-foreshadowing-and-the-computer.md): detailed synthesis of the latest discussion about the opening lines, the title, and representation versus experience.
 - [Original Reddit comment provenance](context/reddit-comments/01-original-comment.md).
 - [Expanded Reddit comment provenance](context/reddit-comments/02-expanded-follow-up-comment.md).
 - [Source and claim register](research/source-and-claim-register.md): concepts and evidentiary cautions.
@@ -16,11 +17,12 @@ A structured archive of an evolving interpretation of Jesse Welles's *Will The C
 ## Reading order
 
 1. Read the interpretive history.
-2. Review the Reddit provenance notes.
-3. Read the source and claim register.
-4. Read Version -2 for the recursive interpretation thesis.
-5. Read Version -1 to see the previous formulation.
-6. Read the revised six-part essay to see the later formulation.
+2. Read the new note on retrospective foreshadowing and “The Computer.”
+3. Review the Reddit provenance notes.
+4. Read the source and claim register.
+5. Read Version -2 for the recursive interpretation thesis.
+6. Read Version -1 to see the previous formulation.
+7. Read the revised six-part essay to see the later formulation.
 
 ## Versioning and provenance
 
