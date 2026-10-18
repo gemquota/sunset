@@ -35,6 +35,8 @@ But the song's later ideas make the line more consequential. Words are represent
 
 A sentence about love is not love. A description of a sunset is not the sunset. A story about humanity is not humanity.
 
+**[Structural resonance: *Infinite Jest* / transmission and experience]** David Foster Wallace's *Infinite Jest* offers a useful thematic resonance here. Hal Incandenza's difficulty communicating his interior state provides an adjacent example of the gap between an experience and its successful transmission into language. The comparison does not establish influence or allusion, but it sharpens the reading of “words are stupid and absurd” as a problem of transmission rather than a blanket dismissal of language. An intact or meaningful interior state can fail to survive the medium through which it is represented.
+
 And yet language, images, music, code, and other recorded artifacts are precisely the materials from which future systems can construct increasingly sophisticated models of us.
 
 This returns us to “our story.” Initially, the phrase seems straightforward. It could refer to humanity's shared history, or perhaps to a more intimate story between the narrator and another person. But the later ideas destabilize the pronoun.
@@ -76,6 +78,8 @@ Humanity exists within biological history. Technology develops within human hist
 The closer we get to the present, the more compressed the timescales become. Millennia of development could give way to a technological transition that unfolds at a speed our biological and social institutions struggle to accommodate.
 
 This creates a structural parallel with recursive self-improvement (RSI): a system uses its existing capabilities to improve itself, with each resulting state potentially providing the basis for further improvement.
+
+**[Structural resonance: *Infinite Jest* / closed-loop recursion]** *Infinite Jest* supplies a useful control case for the word “recursive.” Its addictions, fixations, and lethal entertainment loop can be understood as closed recursive processes: stimulus produces repetition, repetition produces fixation, and the loop can narrow rather than expand agency. The essay's proposed recursive interpretation is different: hear → interpret → acquire context → reinterpret, with the possibility of increased explanatory power. The comparison matters because it prevents “recursive” from becoming synonymous with “progressive.” A loop can refine a system, or it can trap one.
 
 The repetition is therefore doing two things simultaneously. It creates the hypnotic quality of humanity being drawn toward its technological future, and it establishes the nested temporal structure through which that future can be understood.
 
@@ -134,9 +138,11 @@ The third repetition can be read as narrowing the frame again, this time to the 
 
 The horizon evokes the possibility of addressing something that cannot hear us, or confronting an indifferent universe that does not acknowledge our existence. In the AI reading, this also raises the question of whether a system can process our representations without possessing the subjective experiences those representations describe. AI can learn from language, art, scientific work, and recorded behaviour, but the records of human experience are not identical to the experiences themselves. A future system might reproduce recognizable features of humanity without preserving the original beings who produced them. Inheriting our information is technologically plausible; inheriting our subjective existence is a much deeper philosophical question that convincing behaviour alone cannot settle.
 
+**[Structural resonance: *Infinite Jest* / representation that displaces experience]** Wallace's lethal *Infinite Jest* cartridge provides a limiting case for this question. It is a representation that becomes so absorbing that the viewer no longer needs the world outside it. That makes it useful as a contrast for the song's sunset question: not only **“Will the computer love the sunset?”**, but **“Will the computer need the sunset?”** If a successor can possess an increasingly complete representation of an experience, what remains that the representation cannot supply? The comparison is deliberately formal and epistemic. The novel's wider political and character-specific machinery is not being imported into the song.
+
 The third refrain brings us to the smallest temporal scale and the most unsettling question: what would it mean for something to succeed humanity while lacking the very experiences that made humanity worth preserving?
 
-## Recursive interpretation: the song changes as the listener changes
+# Recursive interpretation: the song changes as the listener changes
 
 But there is another layer nested inside these three.
 
@@ -162,7 +168,7 @@ The process can be expressed as: hear → interpret → acquire new context → 
 
 This is recursive interpretation: the output of one interpretive pass becomes part of the context used in the next.
 
-## Recursive interpretation and recursive self-improvement
+# Recursive interpretation and recursive self-improvement
 
 Recursive self-improvement involves a system using its existing capabilities to modify or improve itself, with the resulting system potentially becoming capable of further improvements. The defining idea is not simply that a system accumulates information, but that changes to the system can alter how it processes subsequent information and produces future changes.
 
@@ -198,6 +204,8 @@ This refrain can be read as a recognition that accumulating information does not
 **3. Elaboration and combined implication**
 
 The question about the sunset returns us to the distinction between representation and experience. A description of a sunset is not the sunset; a description of grief is not grief. Language and other records preserve selected information while omitting much of the embodiment, sensation, context, and subjective perspective from which that information emerged. AI trained on recorded outputs therefore encounters representations of human life rather than direct access to the original experiences. This does not mean models cannot learn meaningful things about human experience, but learning about an experience and having that experience are distinct. If humanity disappears while its records remain, those records may support increasingly sophisticated reconstructions of human thought and behaviour, but the archive cannot reverse the disappearance of the beings who generated it.
+
+**[Structural resonance: *Infinite Jest* / archive without experience]** Wallace's extensive endnotes and information density offer a useful comparison for the repository itself. Accumulated information can preserve context without reproducing the experience from which the information arose. The asymmetry matters: Wallace can use data density to overwhelm and fragment a reader, while this repository attempts to preserve provenance and navigability. Both forms make the distinction between information and understanding visible, but they do so in opposite ways.
 
 The refrain establishes an epistemological problem: how faithfully can a representation preserve the reality it represents? The archive may become more complete while the original source of the experiences it describes is gone.
 
@@ -237,9 +245,11 @@ The final refrain can be heard as an uneasy acceptance of the absurdity of exist
 
 Humanity is a comparatively brief-lived species on a small planet, trying to understand the universe while fighting over money, borders, and resources. We may also be developing technologies that could fundamentally change our place in the world. There is something darkly comic about the contrast between our ordinary concerns and the enormous implications of our technological ambitions. The “infinite jest” can be read as a response to the absurdity of existence: the more seriously we examine our position, the more ridiculous and overwhelming it can appear. Our transmissions and recorded artifacts could become remnants of a civilization that no longer exists, perhaps interpreted by a successor in ways we could not anticipate. The song does not have to declare extinction inevitable or technological development meaningless. Its ending can instead suggest that we continue to care, laugh, create, and tell stories even when we cannot know how everything will end.
 
+**[Structural resonance: *Infinite Jest* / self-reference and mechanism difference]** The novel's film bearing the novel's own title creates a mise-en-abyme: a self-referential object exists inside the work. The song's recursion works differently. Its self-reference is primarily temporal, because later material changes how earlier material is understood. The comparison is useful precisely because the mechanisms differ. Both involve self-reference, but they are not recursive in the same way. Wallace places the recursive object inside the fictional world; the song makes the listener's changing interpretive state part of the recursion.
+
 The final refrain returns with a changed emotional significance. What initially sounds like casual resignation can now feel like the exhausted laughter of someone contemplating the entire human condition.
 
-## Representation: the song uses words to expose the limitations of words
+# Representation: the song uses words to expose the limitations of words
 
 The song uses language to communicate an idea about the inadequacy of language. It relies on recorded symbols to suggest that recorded symbols cannot fully preserve subjective experience.
 
@@ -255,7 +265,7 @@ The song's earlier information becomes more meaningful because of its later info
 
 The result is not an endless loop in a literal computational sense, but a potentially open-ended process of reinterpretation. Every new understanding can create another way of hearing what was already there.
 
-## The title: The Computer and the question of inheritance
+# The title: The Computer and the question of inheritance
 
 The title adds another layer to this recursive structure.
 
@@ -278,9 +288,11 @@ The title doesn't merely ask whether a computer can love a sunset. It asks wheth
 
 The Computer might inherit the description of the sunset without inheriting the sunset as we experienced it.
 
+**[Structural resonance: *Infinite Jest* / inheritance and “our story”]** The lethal cartridge and the possible computer-successor occupy opposite positions in relation to representation. The cartridge captures a human being inside representation; the computer is imagined as a possible successor that may inherit humanity's representations. That asymmetry sharpens the instability of “our story.” Is the future computer another captor of representation, a consumer of it, an interpreter of it, or a genuine inheritor of what the record represents? The comparison does not answer that question. It makes the inheritance test more precise without importing the novel's plot or treating succession as proof of consciousness.
+
 The more complete humanity's archive becomes, the easier it may be to mistake the archive for the thing itself. Even the name The Computer participates in that question.
 
-## Conclusion: the listener becomes part of the song's argument
+# Conclusion: the listener becomes part of the song's argument
 
 The repeated refrain can be understood as nesting biological evolution, technological development, and AI within progressively compressed timescales. Its references to war and greed connect humanity's historical behaviour to the competitive forces that accelerate technological change. Its questions about sunsets, love, kindness, and the inability to rewind raise the possibility that technological successors might inherit our recorded information without necessarily inheriting our subjective experience.
 
