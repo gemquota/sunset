@@ -15,6 +15,7 @@ This is the current working essay. It develops the six-part refrain analysis wit
 ├── README.md
 ├── Will-The-Computer-Love-The-Sunset.md
 ├── versions/
+│   ├── 2026-10-18-version-minus-4-hypnotic-repetition-and-nested-timescales.md
 │   ├── 2026-10-18-version-minus-3-recursive-interpretation.md
 │   ├── 2026-10-18-version-minus-2-recursive-interpretation.md
 │   ├── 2026-10-18-version-minus-1-recursive-interpretation.md
@@ -39,12 +40,12 @@ The repository root intentionally contains only the current essay and this READM
 3. **Key interpretive development:** read [retrospective foreshadowing, “our story,” and “The Computer”](context/opening-discussion/retrospective-foreshadowing-and-the-computer.md).
 4. **Source provenance:** review the [original Reddit comment record](context/reddit-comments/01-original-comment.md) and [expanded follow-up record](context/reddit-comments/02-expanded-follow-up-comment.md).
 5. **Interpretive boundaries:** consult the [source and claim register](inference/source-and-claim-register.md).
-6. **Historical comparison:** compare the current essay with [Version -1](versions/2026-10-18-version-minus-1-recursive-interpretation.md), [Version -2](versions/2026-10-18-version-minus-2-recursive-interpretation.md), and [Version -3](versions/2026-10-18-version-minus-3-recursive-interpretation.md).
+6. **Historical comparison:** compare the current essay with [Version -1](versions/2026-10-18-version-minus-1-recursive-interpretation.md), [Version -2](versions/2026-10-18-version-minus-2-recursive-interpretation.md), [Version -3](versions/2026-10-18-version-minus-3-recursive-interpretation.md), and [Version -4](versions/2026-10-18-version-minus-4-hypnotic-repetition-and-nested-timescales.md).
 
 ## Versioning and provenance
 
 - The current essay is kept at the root for immediate access.
-- Version -1, Version -2, and Version -3 are preserved as separate files in `versions/`; their labels are archival identifiers, not a claim that the numeric sequence alone establishes chronology.
+- Version -1, Version -2, Version -3, and Version -4 are preserved as separate files in `versions/`; their labels are archival identifiers, not a claim that the numeric sequence alone establishes chronology.
 - The [recovery note](versions/previous-version-recovery-note.md) documents the provenance of Version -1.
 - The two Reddit permalinks are preserved. Their exact comment bodies could not be retrieved through the available connection, so the records identify their roles and link to the originals rather than presenting fabricated transcripts.
 - The essay is Markdown for direct review and editing in GitHub. A matching Word document created separately during the conversation is not stored in this repository.
