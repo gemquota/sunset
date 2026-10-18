@@ -1,5 +1,10 @@
 # Will The Computer Love The Sunset: A Recursive Interpretation
 
+## Abstract
+
+The essay reads the song's repeated refrain as a nested sequence of temporal scales: biological evolution, technological development, and the potentially much faster emergence of artificial intelligence. It argues that the repetition does more than create a hypnotic musical effect: it formally echoes the recursive process the interpretation identifies in the song's subject. The analysis also distinguishes recorded representations of human life from the embodied experiences that produced them, asking whether a future intelligence could inherit our records without inheriting our experience. Finally, it treats listening itself as recursive: later lines change how earlier lines are understood, making the listener's evolving interpretation part of the song's meaning.
+
+
 Will The Computer Love The Sunset: A Recursive Interpretation
 
 Revised edition: six-part refrain analysis in a three-part interpretive structure
