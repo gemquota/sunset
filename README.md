@@ -7,7 +7,7 @@ A structured archive of an evolving interpretation of Jesse Welles's *Will The C
 - [Version -2: Recursive Interpretation as an Experience](essays/versions/2026-10-18-version-minus-2-recursive-interpretation.md): an essay arguing that the song's meaning recursively develops through the listener's reinterpretation.
 - [Version -1: Will The Computer Love The Sunset: A Recursive Interpretation](essays/versions/2026-10-18-version-minus-1-recursive-interpretation.md): recovered previous version, preserved as a separate Markdown file.
 - [Revised six-part essay](essays/versions/2026-10-18-revised-six-part-analysis.md): later revised version.
-- [Version 0: Recursive Interpretation](essays/versions/2026-10-18-version-0-recursive-interpretation.md): expanded successor edition with recursive interpretation, temporal nesting, representation versus experience, and the six-part refrain analysis.
+- [Version -3: A Recursive Interpretation](essays/versions/2026-10-18-version-minus-3-recursive-interpretation.md): the earlier draft covering recursive interpretation, temporal nesting, representation versus experience, and the six-part refrain analysis.
 - [Previous-version recovery note](essays/versions/previous-version-recovery-note.md): provenance note documenting recovery of the earlier draft.
 - [Opening discussion and interpretive history](context/opening-discussion/interpretive-history.md): how the interpretation developed.
 - [Retrospective foreshadowing, “our story,” and “The Computer”](context/opening-discussion/retrospective-foreshadowing-and-the-computer.md): detailed synthesis of the latest discussion about the opening lines, the title, and representation versus experience.
@@ -24,7 +24,7 @@ A structured archive of an evolving interpretation of Jesse Welles's *Will The C
 5. Read Version -2 for the recursive interpretation thesis.
 6. Read Version -1 to see the previous formulation.
 7. Read the revised six-part essay to see the later formulation.
-8. Read Version 0 for the expanded synthesis.
+8. Read Version -3 for this earlier formulation.
 
 ## Versioning and provenance
 
