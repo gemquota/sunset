@@ -34,7 +34,7 @@ This is the current working essay. It develops the six-part refrain analysis wit
     └── source-and-claim-register.md
 ```
 
-The repository root intentionally contains only the current essay and this README. The three directories separate historical drafts, source/discussion context, and the register of interpretive concepts and evidentiary boundaries.
+The repository root intentionally contains only the current essay and this README. The three directories separate historical drafts, source/discussion context, and the register of interpretive concepts and evidentiary boundaries. Version 0 is also preserved in `versions/` as an archival snapshot of the six-part, three-part-structure essay.
 
 ## Suggested reading order
 
@@ -44,6 +44,21 @@ The repository root intentionally contains only the current essay and this READM
 4. **Source provenance:** review the [original Reddit comment record](context/reddit-comments/01-original-comment.md) and [expanded follow-up record](context/reddit-comments/02-expanded-follow-up-comment.md).
 5. **Interpretive boundaries:** consult the [source and claim register](inference/source-and-claim-register.md).
 6. **Historical comparison:** compare the current essay with [Version -1](versions/2026-10-18-version-minus-1-recursive-interpretation.md), [Version -2](versions/2026-10-18-version-minus-2-recursive-interpretation.md), [Version -3](versions/2026-10-18-version-minus-3-recursive-interpretation.md), [Version -4](versions/2026-10-18-version-minus-4-hypnotic-repetition-and-nested-timescales.md), [Version -5](versions/2026-10-18-version-minus-5-nested-timescales-and-hypnotic-refrain.md), [Version -6A](versions/2026-10-18-version-minus-6a-nested-timescales-and-hypnotic-refrain.md), and [Version -6B](versions/2026-10-18-version-minus-6b-hypnotic-refrain-three-temporal-scales.md).
+
+## Version history at a glance
+
+| Version | Main contribution |
+|---|---|
+| **-1** | Initial extended recursive interpretation, establishing the idea that later lines reframe earlier ones. |
+| **-2** | Condenses the central claim that repetition and other structural choices progressively deepen the song's meaning. |
+| **-3** | Expands the argument connecting the song's form, temporal structure, and recursive interpretation. |
+| **-4** | Makes hypnotic repetition and nested timescales the main structural focus. |
+| **-5** | Refines the nested-timescale reading and the role of the recurring refrain. |
+| **-6A** | Develops the nested-timescale argument with a fuller, existential treatment of representation, history, and experience. |
+| **-6B** | Presents a more concise alternative centered on the hypnotic refrain and three temporal scales. |
+| **0** | Six-part refrain analysis using a consistent three-part structure, integrating temporal nesting, representation versus experience, and recursive interpretation. |
+
+The labels record the archive's working sequence, not a claim that every draft is a strict linear replacement for the one before it. Versions -6A and -6B are related alternatives with different emphases.
 
 ## Versioning and provenance
 
