@@ -1,44 +1,58 @@
-# sunset
+# Will The Computer Love The Sunset
 
-A structured archive of an evolving interpretation of Jesse Welles's *Will The Computer Love The Sunset*, including successive essay versions, source-comment references, and interpretive context.
+A structured archive of an evolving interpretation of Jesse Welles's *Will The Computer Love The Sunset*, preserving the current essay, earlier versions, source context, and interpretive claims.
 
-## Repository map
+## Latest essay
 
-- [Version -2: Recursive Interpretation as an Experience](essays/versions/2026-10-18-version-minus-2-recursive-interpretation.md): an essay arguing that the song's meaning recursively develops through the listener's reinterpretation.
-- [Version -1: Will The Computer Love The Sunset: A Recursive Interpretation](essays/versions/2026-10-18-version-minus-1-recursive-interpretation.md): recovered previous version, preserved as a separate Markdown file.
-- [Revised six-part essay](essays/versions/2026-10-18-revised-six-part-analysis.md): later revised version.
-- [Version -3: A Recursive Interpretation](essays/versions/2026-10-18-version-minus-3-recursive-interpretation.md): the earlier draft covering recursive interpretation, temporal nesting, representation versus experience, and the six-part refrain analysis.
-- [Previous-version recovery note](essays/versions/previous-version-recovery-note.md): provenance note documenting recovery of the earlier draft.
-- [Opening discussion and interpretive history](context/opening-discussion/interpretive-history.md): how the interpretation developed.
-- [Retrospective foreshadowing, “our story,” and “The Computer”](context/opening-discussion/retrospective-foreshadowing-and-the-computer.md): detailed synthesis of the latest discussion about the opening lines, the title, and representation versus experience.
-- [Original Reddit comment provenance](context/reddit-comments/01-original-comment.md).
-- [Expanded Reddit comment provenance](context/reddit-comments/02-expanded-follow-up-comment.md).
-- [Source and claim register](research/source-and-claim-register.md): concepts and evidentiary cautions.
+**[Will The Computer Love The Sunset: A Recursive Interpretation](Will-The-Computer-Love-The-Sunset.md)**
 
-## Reading order
+This is the current working essay. It develops the six-part refrain analysis within a three-part interpretive structure. Earlier drafts remain archived separately; they are not overwritten by revisions.
 
-1. Read the interpretive history.
-2. Read the new note on retrospective foreshadowing and “The Computer.”
-3. Review the Reddit provenance notes.
-4. Read the source and claim register.
-5. Read Version -2 for the recursive interpretation thesis.
-6. Read Version -1 to see the previous formulation.
-7. Read the revised six-part essay to see the later formulation.
-8. Read Version -3 for this earlier formulation.
+## Repository structure
+
+```text
+/
+├── README.md
+├── Will-The-Computer-Love-The-Sunset.md
+├── versions/
+│   ├── 2026-10-18-version-minus-3-recursive-interpretation.md
+│   ├── 2026-10-18-version-minus-2-recursive-interpretation.md
+│   ├── 2026-10-18-version-minus-1-recursive-interpretation.md
+│   └── previous-version-recovery-note.md
+├── context/
+│   ├── opening-discussion/
+│   │   ├── interpretive-history.md
+│   │   └── retrospective-foreshadowing-and-the-computer.md
+│   └── reddit-comments/
+│       ├── 01-original-comment.md
+│       └── 02-expanded-follow-up-comment.md
+└── inference/
+    └── source-and-claim-register.md
+```
+
+The repository root intentionally contains only the current essay and this README. The three directories separate historical drafts, source/discussion context, and the register of interpretive concepts and evidentiary boundaries.
+
+## Suggested reading order
+
+1. **Current essay:** read [the latest interpretation](Will-The-Computer-Love-The-Sunset.md).
+2. **Interpretive history:** read [the opening discussion and interpretive history](context/opening-discussion/interpretive-history.md) to see how the analysis developed.
+3. **Key interpretive development:** read [retrospective foreshadowing, “our story,” and “The Computer”](context/opening-discussion/retrospective-foreshadowing-and-the-computer.md).
+4. **Source provenance:** review the [original Reddit comment record](context/reddit-comments/01-original-comment.md) and [expanded follow-up record](context/reddit-comments/02-expanded-follow-up-comment.md).
+5. **Interpretive boundaries:** consult the [source and claim register](inference/source-and-claim-register.md).
+6. **Historical comparison:** compare the current essay with [Version -1](versions/2026-10-18-version-minus-1-recursive-interpretation.md), [Version -2](versions/2026-10-18-version-minus-2-recursive-interpretation.md), and [Version -3](versions/2026-10-18-version-minus-3-recursive-interpretation.md).
 
 ## Versioning and provenance
 
-Version -2, Version -1, and the revised essay are preserved as separate files. New versions should be added without overwriting earlier drafts, so the development of the interpretation remains traceable.
-
-Version -1's complete text was supplied in the conversation and committed to this repository. The recovery note records that change in provenance status.
-
-The two Reddit permalinks are preserved. Their exact comment bodies could not be retrieved through the available connection, so their files identify their roles and link to the originals rather than presenting fabricated transcripts.
-
-The current essays are stored as Markdown so they can be reviewed and edited directly in GitHub. The separate local starter bundle created during the conversation contains the matching Word document; that binary document has not been added to this repository.
+- The current essay is kept at the root for immediate access.
+- Version -1, Version -2, and Version -3 are preserved as separate files in `versions/`; their labels are archival identifiers, not a claim that the numeric sequence alone establishes chronology.
+- The [recovery note](versions/previous-version-recovery-note.md) documents the provenance of Version -1.
+- The two Reddit permalinks are preserved. Their exact comment bodies could not be retrieved through the available connection, so the records identify their roles and link to the originals rather than presenting fabricated transcripts.
+- The essay is Markdown for direct review and editing in GitHub. A matching Word document created separately during the conversation is not stored in this repository.
 
 ## Editorial principles
 
-- Keep source interpretation, user interpretation, and synthesis distinguishable where possible.
+- Keep source material, user interpretation, and synthesis distinguishable where possible.
 - Treat claims about songwriter intent as interpretations, not facts.
 - Treat machine consciousness and future ASI outcomes as open questions.
-- Preserve versions rather than overwriting earlier work.
+- Preserve earlier versions rather than overwriting them.
+- Keep the root uncluttered: current essay + README; archive, context, and inference live in their own directories.
