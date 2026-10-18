@@ -4,6 +4,7 @@ A structured archive of an evolving interpretation of Jesse Welles's *Will The C
 
 ## Repository map
 
+- [Version -2: Recursive Interpretation as an Experience](essays/versions/2026-10-18-version-minus-2-recursive-interpretation.md): an essay arguing that the song's meaning recursively develops through the listener's reinterpretation.
 - [Version -1: Will The Computer Love The Sunset: A Recursive Interpretation](essays/versions/2026-10-18-version-minus-1-recursive-interpretation.md): recovered previous version, preserved as a separate Markdown file.
 - [Revised six-part essay](essays/versions/2026-10-18-revised-six-part-analysis.md): later revised version.
 - [Previous-version recovery note](essays/versions/previous-version-recovery-note.md): provenance note documenting recovery of the earlier draft.
@@ -17,12 +18,15 @@ A structured archive of an evolving interpretation of Jesse Welles's *Will The C
 1. Read the interpretive history.
 2. Review the Reddit provenance notes.
 3. Read the source and claim register.
-4. Read Version -1 to see the previous formulation.
-5. Read the revised six-part essay to see the later formulation.
+4. Read Version -2 for the recursive interpretation thesis.
+5. Read Version -1 to see the previous formulation.
+6. Read the revised six-part essay to see the later formulation.
 
 ## Versioning and provenance
 
-Version -1 is preserved as its own file and does not overwrite the revised essay. The earlier version's complete text has now been supplied in the conversation and committed to this repository. The recovery note records that change in provenance status.
+Version -2, Version -1, and the revised essay are preserved as separate files. New versions should be added without overwriting earlier drafts, so the development of the interpretation remains traceable.
+
+Version -1's complete text was supplied in the conversation and committed to this repository. The recovery note records that change in provenance status.
 
 The two Reddit permalinks are preserved. Their exact comment bodies could not be retrieved through the available connection, so their files identify their roles and link to the originals rather than presenting fabricated transcripts.
 
