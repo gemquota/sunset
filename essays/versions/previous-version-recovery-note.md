@@ -1,15 +1,10 @@
 # Previous combined essay version: archival note
 
-**Status:** The earlier version is referenced in the conversation, but its complete text is not available among the retrievable files for this export. This file is therefore a provenance note, not a substitute falsely presented as the verbatim previous draft.
+**Status:** Recovered. The complete text of Version -1 has been supplied in the conversation and preserved as a separate Markdown file.
 
-The earlier combined draft was created in WritingBlock ID `62941`. It combined the Reddit interpretation with the user's own analysis and included:
-- the initial emotional discovery and framing;
-- repetition as nested temporal scales;
-- “words are stupid” and “our story” as recursive interpretive pivots;
-- AI/ASI, recorded artifacts, and the difference between representation and lived experience;
-- the six-part refrain analysis in its earlier four-point structure;
-- “you can't just rewind” and the song's darkly absurd ending.
+- **Recovered version:** [Will The Computer Love The Sunset: A Recursive Interpretation](2026-10-18-version-minus-1-recursive-interpretation.md)
+- **Later revised version:** [Revised six-part essay](2026-10-18-revised-six-part-analysis.md)
 
-The later revised version is preserved separately. This note does not claim to reconstruct the exact wording of the previous version.
+Version -1 retains the earlier formulation, including its three nested temporal layers, recursive-interpretation argument, and six-part refrain analysis. It is kept separately so the later version remains intact and both can be compared.
 
-**Recovery source:** the prior conversation's WritingBlock ID `62941`, if it remains available in the ChatGPT conversation history.
+The previous draft was originally associated with WritingBlock ID `62941`. The text committed in the recovered-version file is the text supplied in the current conversation, not a claim that an inaccessible historical attachment was independently retrieved.
