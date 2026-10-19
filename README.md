@@ -16,20 +16,26 @@ This is the current working essay. It develops the six-part refrain analysis wit
 ├── Will-The-Computer-Love-The-Sunset.md
 ├── versions/
 │   ├── V+1-infinite-jest-structural-resonance.md
-│   ├── V-0-six-part-refrain-analysis.md
-│   ├── V-1-recursive-interpretation.md
-│   ├── V-2-recursive-interpretation.md
+│   ├── V-0-six-part-refrain-structural-model.md
+│   ├── V-1-unified-recursive-interpretive-framework.md
+│   ├── V-2-listener-participates-in-recursion.md
 │   ├── V-3-recursive-interpretation.md
-│   ├── V-4-hypnotic-repetition-and-nested-timescales.md
-│   ├── V-5-nested-timescales-and-hypnotic-refrain.md
-│   ├── V-6A-nested-timescales-and-hypnotic-refrain.md
-│   ├── V-6B-hypnotic-refrain-and-three-temporal-scales.md
+│   ├── V-4-hypnotic-repetition-as-conceptual-embodiment.md
+│   ├── V-5-nested-timescales-as-causal-trajectory.md
+│   ├── V-6A-representation-experience-and-cosmic-epitaph.md
+│   ├── V-6B-three-nested-temporal-scales.md
 │   └── previous-version-recovery-note.md
 ├── context/
 │   ├── 01-original-comment.md
 │   ├── opening-discussion/
 │   │   ├── interpretive-history.md
 │   │   └── retrospective-foreshadowing-and-the-computer.md
+│   ├── qna/
+│   │   ├── Q05-are-the-three-temporal-layers-nested-overlapping-or-causally-linked.md
+│   │   ├── Q14-is-the-form-enacts-content-claim-demonstrated.md
+│   │   ├── Q17-does-the-recursive-self-improvement-analogy-illuminate-or-import-assumptions.md
+│   │   ├── Q29-what-distinguishes-recursive-interpretation-from-ordinary-revision.md
+│   │   └── Q49-how-can-refinement-be-distinguished-from-self-confirmation.md
 │   ├── reddit-comments/
 │   │   ├── 01-original-comment.md
 │   │   └── 02-expanded-follow-up-comment.md
@@ -54,12 +60,12 @@ This is the current working essay. It develops the six-part refrain analysis wit
     └── analogy.md
 ```
 
-The repository root intentionally contains only the current essay and this README. The three directories separate historical drafts, source/discussion context, and the structured register of interpretive concepts and evidentiary boundaries.
+The repository root intentionally contains only the current essay and this README. The three directories separate historical drafts, source/discussion context, and the structured register of interpretive concepts and evidentiary boundaries. The `context/qna/` directory preserves the current question-driven refinement process used to develop the next version.
 
 ## Suggested reading order
 
 1. **Current essay:** read [the latest interpretation](Will-The-Computer-Love-The-Sunset.md).
-2. **Version 0 → Version 1 development:** read the [Version 0 development notes](context/version-0-development-notes.md) for the baseline freeze, confirmed insertion locations, numbering lineage, and the Version 1 cut.
+2. **Version 0 → Version +1 development:** read the [Version 0 development notes](context/version-0-development-notes.md) for the baseline freeze, confirmed insertion locations, numbering lineage, and the Version +1 cut.
 3. **Infinite Jest context:** read the [structural-resonance context](context/structural-resonances-infinite-jest.md) for the full six-part comparison and its explicit non-influence boundary.
 4. **Editorial development notes:** read the [Version -6A/-6B development notes](context/version-minus-6a-6b-development-notes.md) for the competing openings, the rationale for the preferred sequence, and the earlier structural refinements.
 5. **Interpretive history:** read the [opening discussion and interpretive history](context/opening-discussion/interpretive-history.md) to see how the analysis developed.
@@ -67,21 +73,22 @@ The repository root intentionally contains only the current essay and this READM
 7. **Source provenance:** review the [original Reddit comment record](context/reddit-comments/01-original-comment.md) and [expanded follow-up record](context/reddit-comments/02-expanded-follow-up-comment.md).
 8. **Inference register:** consult the [structured inference register](inference/README.md), including its confidence scale and both-sides citation rule.
 9. **Open questions:** consult the [open interpretive and editorial questions register](context/open-questions.md) for unresolved textual, structural, epistemic, and repository questions.
-10. **Historical comparison:** compare [V+1](versions/V+1-infinite-jest-structural-resonance.md), [V-0](versions/V-0-six-part-refrain-analysis.md), then [V-1](versions/V-1-recursive-interpretation.md), [V-2](versions/V-2-recursive-interpretation.md), [V-3](versions/V-3-recursive-interpretation.md), [V-4](versions/V-4-hypnotic-repetition-and-nested-timescales.md), [V-5](versions/V-5-nested-timescales-and-hypnotic-refrain.md), [V-6A](versions/V-6A-nested-timescales-and-hypnotic-refrain.md), and [V-6B](versions/V-6B-hypnotic-refrain-and-three-temporal-scales.md).
+10. **Q&A refinement:** review [Q05](context/qna/Q05-are-the-three-temporal-layers-nested-overlapping-or-causally-linked.md), [Q14](context/qna/Q14-is-the-form-enacts-content-claim-demonstrated.md), [Q17](context/qna/Q17-does-the-recursive-self-improvement-analogy-illuminate-or-import-assumptions.md), [Q29](context/qna/Q29-what-distinguishes-recursive-interpretation-from-ordinary-revision.md), and [Q49](context/qna/Q49-how-can-refinement-be-distinguished-from-self-confirmation.md) as the five questions selected to inform V+2.
+11. **Historical comparison:** compare [V+1](versions/V+1-infinite-jest-structural-resonance.md), [V0](versions/V-0-six-part-refrain-structural-model.md), then [V-1](versions/V-1-unified-recursive-interpretive-framework.md), [V-2](versions/V-2-listener-participates-in-recursion.md), [V-3](versions/V-3-recursive-interpretation.md), [V-4](versions/V-4-hypnotic-repetition-as-conceptual-embodiment.md), [V-5](versions/V-5-nested-timescales-as-causal-trajectory.md), [V-6A](versions/V-6A-representation-experience-and-cosmic-epitaph.md), and [V-6B](versions/V-6B-three-nested-temporal-scales.md).
 
 ## Version history at a glance
 
-| Version | Main contribution |
+| Version | CIITV / main contribution |
 |---|---|
-| **-1** | Initial extended recursive interpretation, establishing the idea that later lines reframe earlier ones. |
-| **-2** | Condenses the central claim that repetition and other structural choices progressively deepen the song's meaning. |
-| **-3** | Expands the argument connecting the song's form, temporal structure, and recursive interpretation. |
-| **-4** | Makes hypnotic repetition and nested timescales the main structural focus. |
-| **-5** | Refines the nested-timescale reading and the role of the recurring refrain. |
-| **-6A** | Develops the nested-timescale argument with a fuller, existential treatment of representation, history, and experience. |
-| **-6B** | Presents a more concise alternative centered on the hypnotic refrain and three temporal scales. |
-| **0** | Six-part refrain analysis using a consistent three-part structure, integrating temporal nesting, representation versus experience, and recursive interpretation. |
-| **+1** | Adds the distributed *Infinite Jest* structural-resonance layer while preserving the Version 0 argument as the essay's centre of gravity. |
+| **-6B** | Three nested temporal scales: biological evolution, technological development, and AI. |
+| **-6A** | Representation versus experience, culminating in humanity's records as a possible cosmic epitaph. |
+| **-5** | The three timescales become one causal trajectory from human history through technology toward AI. |
+| **-4** | Repetition itself becomes the subject's conceptual embodiment: the song enacts technological hypnosis. |
+| **-3** | Recursive interpretation: later information changes how earlier material is understood. |
+| **-2** | The listener participates in the recursion; the song becomes a small-scale experience of recursive refinement. |
+| **-1** | Unifies the interpretive components into one recursive framework. |
+| **0** | Formalizes the framework as a six-part refrain model nested within three temporal layers. |
+| **+1** | Adds distributed *Infinite Jest* structural resonance while preserving the Version 0 argument as the centre of gravity. |
 
 ## Version numbering and provenance
 
