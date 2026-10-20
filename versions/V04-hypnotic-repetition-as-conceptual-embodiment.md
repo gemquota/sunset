@@ -1,6 +1,6 @@
 # Will The Computer Love The Sunset: Hypnotic Repetition and Nested Timescales
 
-**Version:** -4  
+**Version:** V04  
 **Status:** Historical draft, preserved as submitted  
 **Subject:** Jesse Welles's “Will The Computer Love The Sunset”
 

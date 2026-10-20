@@ -1,6 +1,6 @@
-# V02 and -6B: Context, Structural Analysis, and Revision Decisions
+# V02 and V01: Context, Structural Analysis, and Revision Decisions
 
-**Purpose:** Preserve the discussion informing V02 and -6B. This is contextual and editorial material, not a replacement for either version. It records competing openings, the reasoning for the preferred sequence, the insight that repetition itself enacts the song's hypnotic subject, and agreed revision guidance.
+**Purpose:** Preserve the discussion informing V02 and V01. This is contextual and editorial material, not a replacement for either version. It records competing openings, the reasoning for the preferred sequence, the insight that repetition itself enacts the song's hypnotic subject, and agreed revision guidance.
 
 ## 1. Competing sequences for the opening argument
 
@@ -136,7 +136,7 @@ The author supplied three clarifications after the editorial suggestions:
 
 ## 7. Recommended editorial direction
 
-For the material associated with V02 and -6B:
+For the material associated with V02 and V01:
 
 1. Prefer the **Meaning → Structural Function** order for an opening that leads directly into the nested-layer analysis.
 2. Explicitly state that the **repetition itself is the hypnotic mechanism** and therefore a formal embodiment of the song's subject.

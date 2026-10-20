@@ -32,7 +32,7 @@ Use these links to jump directly to any question. The original questions retain 
 - [Q09 — Does the archive demonstrate recursive refinement?](#q09)
 - [Q10 — What is the stopping condition for revision?](#q10)
 - [Q11 — Does the version archive clarify or overwhelm?](#q11)
-- [Q12 — Should -6A/-6B remain a visible fork?](#q12)
+- [Q12 — Should V02/V01 remain a visible fork?](#q12)
 - [Q13 — How do the six refrain sections relate to three temporal layers?](#q13)
 - [Q14 — Is “form enacts content” demonstrated?](#q14)
 
@@ -120,7 +120,7 @@ These issues were selected for focused discussion because they involve discrete 
 | What is the stopping condition for recursive revision? | [#2](https://github.com/gemquota/sunset/issues/2) |
 | Does the essay demonstrate that form enacts content? | [#3](https://github.com/gemquota/sunset/issues/3) |
 | How should the missing original Reddit comment be represented? | [#4](https://github.com/gemquota/sunset/issues/4) |
-| Should V02/-6B remain a visible fork? | [#5](https://github.com/gemquota/sunset/issues/5) |
+| Should V02/V01 remain a visible fork? | [#5](https://github.com/gemquota/sunset/issues/5) |
 | What would falsify or constrain the three-layer temporal reading? | [#6](https://github.com/gemquota/sunset/issues/6) |
 
 [Issue #1](https://github.com/gemquota/sunset/issues/1) separately tracks the choice between the meaning-first and thesis-first openings.
@@ -170,12 +170,12 @@ Tracked in [Issue #2](https://github.com/gemquota/sunset/issues/2).
 Tracked in [Issue #2](https://github.com/gemquota/sunset/issues/2).
 
 <a id="q11"></a>
-### Q11. Does preserving V07 through -6B clarify the argument, or create version noise for new readers?
+### Q11. Does preserving V07 through V01 clarify the argument, or create version noise for new readers?
 
 The README's reading order and version table already address navigation; whether the archive has the right level of detail remains open.
 
 <a id="q12"></a>
-### Q12. Should the competing openings in -6A/-6B remain as an appendix, or be folded into the main essay as a visible interpretive fork?
+### Q12. Should the competing openings in V02/V01 remain as an appendix, or be folded into the main essay as a visible interpretive fork?
 
 Tracked in [Issue #5](https://github.com/gemquota/sunset/issues/5).
 
@@ -248,7 +248,7 @@ These questions address navigation, contribution, and editorial governance. Some
 <a id="q27"></a>
 ### Q27. Should the development notes link directly from the README's suggested reading order?
 
-**Addressed:** the README's reading order links to the V02/-6B development notes.
+**Addressed:** the README's reading order links to the V02/V01 development notes.
 
 <a id="q28"></a>
 ### Q28. How should the project invite critique without turning the archive into an unstable consensus document?

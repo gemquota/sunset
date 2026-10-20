@@ -1,6 +1,6 @@
 # Will The Computer Love The Sunset: A Recursive Interpretation
 
-**Version:** -3 (earlier draft; preserved as a separate version)
+**Version:** V05 (earlier draft; preserved as a separate version)
 
 Now you are gonna think I'm crazy, but I spent hours more analyzing the track and examining and elaborating
 upon my interpretation, and I've become convinced that there is a much deeper structural relationship between

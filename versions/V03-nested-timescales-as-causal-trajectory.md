@@ -1,6 +1,6 @@
 # Will The Computer Love The Sunset: Nested Timescales and the Hypnotic Refrain
 
-**Version:** -5  
+**Version:** V03  
 **Status:** Historical draft, preserved as supplied  
 **Subject:** Jesse Welles's “Will The Computer Love The Sunset”
 
