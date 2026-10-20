@@ -1,31 +1,37 @@
 # Q29 — What distinguishes a genuinely recursive interpretive process from a sequence of ordinary revisions?
 
-**Status:** Proposed answer awaiting user refinement
-**Source question:** Q29 in `context/open-questions.md`
+**Status:** Refined from user response
 
-## Proposed answer
+## User's answers
 
-The key distinction is **feedback into the interpretive mechanism**, not merely the passage of time or the number of revisions.
+1. The clearest recursive moment was considering the opening of the refrain — “in between the time” repeated — asking what, if anything, could constitute three nested layers, and then relating that discovery to the rest of the song.
+2. Literal rereading is **plausibly** sufficient, but the broader conceptual return may also count.
+3. A new framework **perhaps** should demonstrably alter earlier passages, although this remains somewhat open.
+4. **Yes**, every CIITV should identify which earlier claims it changed, but that belongs in the version's development record rather than the filename.
+5. The user joked that a recursively improved version could be shorter if it were not **multiplicative**, but remained unsure about the exact criterion.
 
-An ordinary revision can add a new observation without changing the framework used to understand earlier observations. A recursive interpretation occurs when a later discovery changes the interpretive state, and that changed state is then used to reinterpret material that was already encountered.
+## Refined answer
 
-In this project, the clearest loop is:
+The strongest concrete example of recursive interpretation is the discovery process around the opening refrain itself.
 
-**hear → interpret → acquire context → change interpretive model → reread earlier material → discover relationships that were previously inaccessible → repeat**
+The repeated **“in between the time”** creates a problem before it supplies an answer: what could exist between repeated layers of time, and could those layers correspond to distinct scales in the rest of the song? Once that possibility is noticed, the listener returns to the surrounding material and begins testing the proposed structure against it.
 
-That makes the version history useful as an external record of a process that otherwise happens privately in a listener's mind. But the existence of many versions is not itself proof of recursion. Each version has to be examined for evidence that later insights actually altered the meaning or organisation of earlier material.
+That is more than ordinary revision because the newly discovered model becomes an **interpretive instrument**. It changes what the listener looks for in material that has already been encountered.
 
-A practical criterion is therefore:
+Literal rereading is therefore a clear instance, but conceptual return can also qualify if the new model genuinely changes the processing of earlier material.
 
-> **A revision is recursively meaningful when its output becomes part of the interpretive context that changes the processing of material already considered.**
+A CIITV should ideally record:
 
-This also explains why V-3 through V-2 are not merely longer drafts: the central object of analysis becomes the changing interpretation itself and the listener's participation in that change.
+> **What did this version discover, and which earlier interpretation did that discovery change?**
 
-## Questions for the user
+This need not appear in the filename. The filename identifies the version's core improvement; the Q&A/development record can document the dependency chain.
 
-1. What was the clearest moment when a later discovery made an earlier line or idea **actually mean something different** to you?
-2. Should recursive interpretation require literal rereading, or can a conceptual return to earlier material count?
-3. Is a new framework enough, or must it produce a demonstrable change in the interpretation of specific earlier passages?
-4. Should the version archive explicitly mark **which earlier claims each new CIITV changed**?
-5. Could a version be recursively improved even if its final prose became shorter?
-6. What would convince you that a revision was merely additive rather than recursive?
+The “multiplicative” point can be made more precisely. A recursive improvement does not have to make the text longer. It should increase the **explanatory relationships** available from the same or smaller amount of material. A shorter version can therefore be a genuine improvement if it preserves more useful structure with fewer unsupported assumptions.
+
+## Questions for further refinement
+
+1. Should CIITV be defined as an **increase in explanatory power**, rather than an increase in content?
+2. Can a discovery count as recursive if it changes the interpretation of only one earlier passage?
+3. Does the opening refrain discovery imply that the song itself was designed to provoke this question, or only that it permits it unusually well?
+4. What would a genuinely non-recursive revision of this project look like?
+5. Should V+2 explicitly distinguish **new information** from **new interpretive structure**?
