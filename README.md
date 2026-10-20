@@ -38,8 +38,8 @@ The current V11 structural edition is preserved at [V11](versions/V11-open-ended
 │   ├── qna/
 │   ├── reddit-comments/
 │   ├── structural-resonances-infinite-jest.md
-│   ├── version-0-development-notes.md
-│   ├── version-minus-6a-6b-development-notes.md
+│   ├── V08-development-notes.md
+│   ├── V01-V02-development-notes.md
 │   └── open-questions.md
 └── inference/
     ├── README.md
@@ -59,23 +59,23 @@ The repository root intentionally contains only the current essay and this READM
 7. **Structural resonance context:** [Infinite Jest context](context/structural-resonances-infinite-jest.md)
 8. **Interpretive history:** [opening discussion](context/opening-discussion/interpretive-history.md)
 9. **Inference register:** [inference](inference/README.md)
-10. **Historical versions:** compare V08 and the negative-numbered versions after reading the current synthesis.
+10. **Historical versions:** compare V08 and the sequentially numbered versions after reading the current synthesis.
 
 ## Version history at a glance
 
 | Version | CIITV / main contribution |
 |---|---|
-| **-6B** | Three nested temporal scales: biological evolution, technological development, and AI. |
-| **-6A** | Representation versus experience, culminating in humanity's records as a possible cosmic epitaph. |
-| **-5** | The three timescales become one causal trajectory from human history through technology toward AI. |
-| **-4** | Repetition itself becomes the subject's conceptual embodiment: the song enacts technological hypnosis. |
-| **-3** | Recursive interpretation: later information changes how earlier material is understood. |
-| **-2** | The listener participates in the recursion; the song becomes a small-scale experience of recursive refinement. |
-| **-1** | Unifies the interpretive components into one recursive framework. |
+| **V01** | Three nested temporal scales: biological evolution, technological development, and AI. |
+| **V02** | Representation versus experience, culminating in humanity's records as a possible cosmic epitaph. |
+| **V03** | The three timescales become one causal trajectory from human history through technology toward AI. |
+| **V04** | Repetition itself becomes the subject's conceptual embodiment: the song enacts technological hypnosis. |
+| **V05** | Recursive interpretation: later information changes how earlier material is understood. |
+| **V06** | The listener participates in the recursion; the song becomes a small-scale experience of recursive refinement. |
+| **V07** | Unifies the interpretive components into one recursive framework. |
 | **0** | Formalizes the framework as a six-part refrain model nested within three temporal layers. |
-| **+1** | Adds distributed *Infinite Jest* structural resonance while preserving the V08 argument as the centre of gravity. |
-| **+2** | Makes the interpretation an explicit recursive system: nested temporal structure, form-as-enactment, cognition-level recursion, competing interpretations, and methodological self-correction. |
-| **+3** | Makes the future machine interpreter explicitly open-ended, separates possibility from prediction, and establishes the core/modular/line-index architecture. |
+| **V09** | Adds distributed *Infinite Jest* structural resonance while preserving the V08 argument as the centre of gravity. |
+| **V10** | Makes the interpretation an explicit recursive system: nested temporal structure, form-as-enactment, cognition-level recursion, competing interpretations, and methodological self-correction. |
+| **V11** | Makes the future machine interpreter explicitly open-ended, separates possibility from prediction, and establishes the core/modular/line-index architecture. |
 
 ## Editorial architecture
 

@@ -170,7 +170,7 @@ Tracked in [Issue #2](https://github.com/gemquota/sunset/issues/2).
 Tracked in [Issue #2](https://github.com/gemquota/sunset/issues/2).
 
 <a id="q11"></a>
-### Q11. Does preserving Versions -1 through -6B clarify the argument, or create version noise for new readers?
+### Q11. Does preserving V07 through -6B clarify the argument, or create version noise for new readers?
 
 The README's reading order and version table already address navigation; whether the archive has the right level of detail remains open.
 
