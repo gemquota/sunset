@@ -1,26 +1,39 @@
 # Q14 — Is the “form enacts content” claim demonstrated by the essay, or asserted by it?
 
-**Status:** Proposed answer awaiting user refinement
-**Source question:** Q14 in `context/open-questions.md`
+**Status:** Refined from user response
 
-## Proposed answer
+## User's answers
 
-The claim is **partly demonstrated, but the strongest version is still interpretive rather than proven**.
+1. **All three**: repetition, temporal nesting, and retrospective reinterpretation.
+2. **Enacts.**
+3. **Yes**: the listener's recursive reinterpretation counts as part of the song's operative form.
+4. **Mild**: the actual musical repetition matters, but not overwhelmingly by itself.
+5. **Nothing I can think of** that would presently force the claim down to merely “can be read as enacting.”
 
-There are several concrete correspondences: the refrain repeats while narrowing temporal scale; later lyrical material changes how earlier material can be understood; and the listener can therefore experience a process of reinterpretation that resembles the recursive process the essay identifies in the subject matter.
+## Refined answer
 
-The important distinction is between **structural correspondence** and **intentional proof**. The essay can demonstrate that these features coexist and that they produce a meaningful analogy. It cannot demonstrate from the text alone that Welles deliberately designed the form to encode recursive self-improvement.
+The claim should remain **“enacts,”** with the important qualification that this describes structural effect rather than proven authorial intention.
 
-A stronger and more defensible formulation is therefore:
+The enactment depends on the interaction of all three features:
 
-> **The song's form can be experienced as enacting or embodying aspects of the process it describes, even though the text does not prove that this correspondence was deliberately engineered.**
+- **repetition** keeps the listener inside the same verbal structure;
+- **temporal nesting** changes the scale at which that structure can be understood;
+- **retrospective reinterpretation** means later context changes the significance of earlier material.
 
-The version archive strengthens the claim about the listener's experience because the successive analyses actually document retrospective reinterpretation. It does not, however, convert that interpretive experience into evidence of authorial intent.
+The listener's response is therefore not merely external commentary placed on top of the song. It is part of the song's operative structure: the song supplies a pattern that becomes increasingly intelligible as the listener processes it recursively.
 
-## Questions for the user
+The musical repetition itself provides some of the mechanism, but the strongest enactment occurs through the combination of music, refrain, lyrical context, and listener cognition. No current counterexample has emerged that requires weakening the claim to “can be read as enacting.”
 
-1. What specific feature feels most like the song **enacting** its subject: repetition, temporal nesting, retrospective reinterpretation, or the combination?
-2. Do you think “enacts” is stronger and more accurate than “mirrors” or “embodies”?
-3. Does the listener's recursive rereading count as part of the song's form, or only as a response to it?
-4. How much weight should the actual musical repetition carry compared with the lyrics?
-5. What evidence would make you downgrade the claim from “enacts” to merely “can be read as enacting”?
+The necessary boundary remains:
+
+> **The song enacts a recursive interpretive process as experienced by the listener; this does not prove that the songwriter deliberately engineered the form to encode that process.**
+
+That is a stronger claim than simple thematic resemblance, while remaining appropriately cautious about authorial intent.
+
+## Questions for further refinement
+
+1. If the listener's interpretation is part of the form, where should the boundary between **song structure** and **listener cognition** be drawn?
+2. Does the enactment occur on every listen, or does it depend on the listener discovering the nested structure?
+3. Could someone experience the song's recursive form without consciously recognising it?
+4. Does the final interpretation retrospectively alter the meaning of the first refrain, or merely explain it?
+5. What would distinguish genuine enactment from a sophisticated listener constructing a pattern after the fact?
