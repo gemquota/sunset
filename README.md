@@ -6,9 +6,9 @@ A structured archive of an evolving interpretation of Jesse Welles's *Will The C
 
 **[Will The Computer Love The Sunset: A Recursive Interpretation](Will-The-Computer-Love-The-Sunset.md)**
 
-This remains the single canonical core essay. **V+3** establishes its next conceptual and editorial architecture: a table of contents, concrete conceptual sections, an open-ended treatment of machine intelligence rather than an assumed AGI/ASI endpoint, and a line-by-line interpretation index using short lyric identifiers.
+This remains the single canonical core essay. **V+3** establishes its next conceptual and editorial architecture: a table of contents, concrete conceptual sections, an open-ended treatment of machine intelligence rather than an assumed AGI/ASI endpoint, and a line-by-line interpretation index.
 
-The current V+3 structural edition is preserved at [V+3](versions/V+3-open-ended-machine-successor-and-reader-architecture.md), with a digestible modular reader in [V+3-modular](versions/V+3-modular/README.md).
+The current V+3 structural edition is preserved at [V+3](versions/V+3-open-ended-machine-successor-and-reader-architecture.md), with its digestible modular reader in [V+3](versions/V+3/README.md).
 
 ## Repository structure
 
@@ -18,11 +18,11 @@ The current V+3 structural edition is preserved at [V+3](versions/V+3-open-ended
 ├── Will-The-Computer-Love-The-Sunset.md
 ├── versions/
 │   ├── V+3-open-ended-machine-successor-and-reader-architecture.md
-│   ├── V+3-modular/
+│   ├── V+3/
 │   ├── V+2-recursive-interpretive-system.md
-│   ├── V+2-modular/
+│   ├── V+2/
 │   ├── V+1-infinite-jest-structural-resonance.md
-│   ├── V+1-modular/
+│   ├── V+1/
 │   ├── V-0-six-part-refrain-structural-model.md
 │   ├── V-1-unified-recursive-interpretive-framework.md
 │   ├── V-2-listener-participates-in-recursion.md
@@ -52,9 +52,9 @@ The repository root intentionally contains only the current essay and this READM
 
 1. **Current core essay:** [Will The Computer Love The Sunset](Will-The-Computer-Love-The-Sunset.md)
 2. **V+3 conceptual architecture:** [V+3](versions/V+3-open-ended-machine-successor-and-reader-architecture.md)
-3. **V+3 digestible reader:** [V+3-modular](versions/V+3-modular/README.md)
-4. **V+2:** [recursive interpretive system](versions/V+2-recursive-interpretive-system.md), then its [modular reader](versions/V+2-modular/README.md)
-5. **V+1:** [*Infinite Jest* structural resonance](versions/V+1-infinite-jest-structural-resonance.md), then its [modular reader](versions/V+1-modular/README.md)
+3. **V+3 digestible reader:** [V+3](versions/V+3/README.md)
+4. **V+2:** [recursive interpretive system](versions/V+2-recursive-interpretive-system.md), then its [V+2 modular reader](versions/V+2/README.md)
+5. **V+1:** [*Infinite Jest* structural resonance](versions/V+1-infinite-jest-structural-resonance.md), then its [V+1 modular reader](versions/V+1/README.md)
 6. **Q&A refinement:** [context/qna](context/qna/README.md)
 7. **Structural resonance context:** [Infinite Jest context](context/structural-resonances-infinite-jest.md)
 8. **Interpretive history:** [opening discussion](context/opening-discussion/interpretive-history.md)
@@ -91,7 +91,7 @@ The labels record the archive's working sequence, not a claim that every negativ
 
 The project deliberately retains **one massive canonical core essay** rather than turning the argument into several independent essays. The modular editions exist for reading convenience and preserve the conceptual relationships of the core argument in smaller units.
 
-V+3 also introduces a **line-by-line interpretation index**. The project does not reproduce the song's complete copyrighted lyrics. Instead, the index uses short quotations or line identifiers, gives a succinct interpretation of each, and points the reader to the relevant essay sections. A complete lyric transcript can only be added from material supplied by the user or otherwise lawfully available to the project.
+V+3 also introduces a **line-by-line interpretation index**. The index uses the supplied song text as its source for analysis, but the repository does not reproduce the complete lyric transcript. Instead, it gives every supplied line a stable number, a succinct interpretation, and a destination in the essay. Repeated chorus lines are indexed separately because their recurrence is itself analytically significant.
 
 ## Inference confidence and citation rules
 
