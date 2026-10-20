@@ -1,34 +1,42 @@
 # Q49 — How can refinement be distinguished from self-confirmation?
 
-**Status:** Proposed answer awaiting user refinement
-**Source question:** Q49 in `context/open-questions.md`
+**Status:** Refined from user response
 
-## Proposed answer
+## User's answers
 
-Refinement becomes self-confirmation when the process mainly changes the interpretation so that new material is made compatible with the existing thesis, rather than allowing the thesis itself to be weakened, redirected, or rejected.
+1. The strongest possible counter-pressure would be an **authorial response** demonstrating that the central thesis remained unchanged through all versions, together with logical proof against the thesis.
+2. The user is unsure whether the project has genuinely weakened an earlier belief.
+3. **Yes**, every CIITV should include a “what this makes less certain” component.
+4. **Yes**, explanatory compression is useful if it does not conceptually weaken the explanation.
+5. Competing interpretations need to be **defined and developed**, not merely mentioned as objections.
+6. The user is **unsure** how much uncertainty should survive into V+2.
 
-A defensible recursive method therefore needs **counter-pressure**. Each pass should ask not only “What does this new context explain?” but also “What does it fail to explain, contradict, or make less plausible?”
+## Refined answer
 
-For this project, useful safeguards are:
+The project needs to distinguish two different questions:
 
-1. **Separate observation from inference.** Do not let an interpretive conclusion become evidence for the textual observation that supposedly supports it.
-2. **Record disconfirming readings.** Preserve plausible interpretations that compete with the preferred reading.
-3. **Track unchanged claims.** If a new version adds complexity without changing any conclusion, that is not necessarily improvement.
-4. **State breakpoints.** Identify where the analogy to recursion, RSI, ASI, or *Infinite Jest* stops fitting.
-5. **Permit downgrade.** A CIITV should be allowed to reduce confidence in an earlier claim.
-6. **Prefer explanatory compression.** A deeper model should explain more relationships with fewer unsupported assumptions, not simply contain more prose.
+1. **Has the interpretation changed?**
+2. **Has the interpretation become more justified?**
 
-The strongest test may be whether the method can produce an answer that the interpreter **did not want**. If every new observation becomes confirmation, the recursion is functioning as a self-sealing loop rather than an investigative one.
+The version history can provide evidence for the first. It cannot automatically establish the second.
 
-So the proposed criterion is:
+The strongest external counterevidence would be evidence that the central thesis is not actually supported by the author's intended construction, especially if the author explicitly rejected the structural interpretation. But authorial response is not the only relevant test. A logical contradiction, a textual passage that the model cannot accommodate without special pleading, or a competing interpretation that explains the same structure with fewer assumptions can also weaken the thesis.
 
-> **Refinement earns its status when the process remains capable of changing the conclusion, not merely making the existing conclusion more elaborate.**
+The user's answer also suggests a useful methodological rule for future CIITVs:
 
-## Questions for the user
+> **Every version should state not only what it improves, but what it makes less certain.**
 
-1. What would count as genuine **counterevidence** against the central recursive-interpretation thesis?
-2. Have any discoveries in this project actually weakened an earlier belief, rather than strengthening it?
-3. Should every CIITV include a short “what this version makes less certain” section?
-4. Is explanatory compression a good measure here, or can a longer interpretation genuinely be better because it preserves more distinctions?
-5. Which competing interpretation of the song should the project take most seriously?
-6. How much uncertainty should survive into V+2 even if the five Q&A answers converge strongly?
+Explanatory compression remains useful, but only when compression preserves conceptual distinctions. A shorter explanation that quietly removes inconvenient evidence is not an improvement.
+
+Competing interpretations should therefore become real models rather than straw objections. V+2 begins this process by distinguishing existential, technological-displacement, epistemological, recursive-form, and hybrid readings. Future versions should test these against the same evidence.
+
+The unresolved uncertainty should remain visible. V+2 does not need to pretend that the central interpretation has been logically proved. Its methodological advance is precisely that it now has a mechanism for discovering where it may be wrong.
+
+## Questions for further refinement
+
+1. What would count as a stronger disconfirmation: authorial rejection, textual contradiction, or a better competing explanation?
+2. Should the author's stated interpretation be treated as decisive, or as one piece of evidence among others?
+3. What is the minimum evidence needed before calling a competing interpretation genuinely stronger?
+4. Should each future CIITV include an explicit confidence score for its major claims?
+5. Can a thesis remain strong while several peripheral claims are downgraded?
+6. Which part of the current thesis feels most vulnerable to falsification?
