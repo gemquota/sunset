@@ -1,30 +1,47 @@
 # Q17 — Does the recursive self-improvement analogy illuminate the song, or risk importing AI assumptions the song does not support?
 
-**Status:** Proposed answer awaiting user refinement
-**Source question:** Q17 in `context/open-questions.md`
+**Status:** Refined from user response
 
-## Proposed answer
+## User's answers
 
-It **illuminates the song when treated as a structural analogy, but becomes misleading if treated as evidence that the song literally describes RSI**.
+1. The listener-as-recursive-system is **central**, perhaps specifically as a claim about **cognition**.
+2. The user believes **rereading** is the stronger route into the analogy.
+3. The distinctions do not need to be repeated mechanically every time.
+4. The word **“The Computer”** is an important reason the analogy belongs in the interpretation.
+5. The user asked for clarification about what it would mean for the analogy to become an imported assumption.
 
-The useful correspondence is narrow: a current interpretive state affects how subsequent information is processed, and the resulting state can then affect the next pass. The listener's interpretation therefore has a recursive-refinement shape. That is genuinely analogous to recursive self-improvement at the level of feedback structure.
+## Clarification of the final question
 
-The analogy breaks if we imply that human interpretation and AI self-improvement are equivalent processes, or if we use the analogy to smuggle in assumptions about ASI that the song itself does not establish.
+By “imported assumption,” the question meant: where does the analysis begin using concepts from modern AI discourse that are not actually supported by the song itself?
 
-The cleanest hierarchy is:
+For example, saying “the listener repeatedly updates an interpretation” is directly grounded in the interpretive process. Saying “therefore the song predicts recursive self-improving AGI with a particular architecture” would go far beyond the evidence.
 
-**song text → interpretation of recursion → structural analogy to recursive refinement → optional comparison with RSI**
+## Refined answer
 
-not:
+The recursive-self-improvement analogy should remain, but its centre of gravity should be **cognition and recursive rereading**, not speculative AI forecasting.
 
-**song text → proof that the song predicts or describes RSI**.
+The strongest chain is:
 
-The analogy is therefore most valuable as a lens for explaining why the song's recursive rereading feels structurally significant, not as independent evidence for a particular AI future.
+**rereading → changed interpretation → changed processing of subsequent information → recursive cognitive refinement**
 
-## Questions for the user
+The computer then supplies a second, technological scale at which the same structural question can be asked:
 
-1. Is the **listener-as-recursive-system** analogy central to your interpretation, or mainly a useful explanatory device?
-2. Does the song's mention of the computer justify bringing RSI into the reading, or does the analogy depend mostly on the structure of rereading?
-3. Should the essay explicitly separate **recursive interpretation**, **recursive refinement**, and **recursive self-improvement** every time they appear?
-4. Do you think the analogy should survive if all explicit ASI language were removed from the essay?
-5. Where, if anywhere, does the analogy stop being useful and start importing assumptions?
+> If human cognition can recursively build representations from representations, what would happen if a technological intelligence could perform analogous operations at machine scale?
+
+That question is stronger than simply saying “the song is about RSI.”
+
+“The Computer” matters because it explicitly opens the technological frame. But the recursive structure does not depend solely on that phrase. The cognition-level process is already present in the act of rereading.
+
+The distinctions among recursive interpretation, recursive refinement, and recursive self-improvement should therefore be **maintained conceptually without being repeated as a ritual disclaimer**. The essay can explain the hierarchy once and then use the terms according to their specific meanings.
+
+The boundary against imported assumptions is:
+
+> **Use AI concepts to illuminate a structural relationship already present in the song; do not use them to manufacture claims about what the song predicts.**
+
+## Questions for further refinement
+
+1. Does the song imply that the computer is itself a recursive interpreter, or is that a later extrapolation?
+2. Is “cognition” broad enough to include both human interpretation and possible machine interpretation without making them equivalent?
+3. Does “The Computer” function as a literal imagined subject, a symbolic successor, or deliberately both?
+4. What specific property of rereading makes it relevant to self-improvement rather than merely learning?
+5. Should V+2 distinguish “machine cognition” from “machine consciousness” explicitly?
