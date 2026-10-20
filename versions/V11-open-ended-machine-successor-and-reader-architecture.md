@@ -1,14 +1,14 @@
 # Will The Computer Love The Sunset: Open-Ended Machine Successor and Reader Architecture
 
-**Version +3**
+**V11**
 
 ## Abstract
 
-V+3 is a structural and conceptual consolidation of the preceding analysis. The central interpretation remains that the song can be read through nested time, recursive interpretation, representation versus experience, and the possibility of a future machine intelligence becoming an interpreter of humanity's surviving records.
+V11 is a structural and conceptual consolidation of the preceding analysis. The central interpretation remains that the song can be read through nested time, recursive interpretation, representation versus experience, and the possibility of a future machine intelligence becoming an interpreter of humanity's surviving records.
 
 The major change is that the essay no longer treats AGI, ASI, extinction, or any other technological endpoint as an assumed destination. The song is interesting precisely because it asks an open question about a possible change in the identity and capabilities of the interpreter. The computer may become a successor, but the song does not tell us exactly what that means or whether it happens.
 
-V+3 also establishes a durable editorial architecture: one complete core essay remains the canonical reading, while a modular edition divides the same conceptual material into smaller, navigable files. A lyric-by-lyric interpretation index is added as a companion structure, with short quotations only and links back into the essay rather than reproducing the song's complete copyrighted lyrics.
+V11 also establishes a durable editorial architecture: one complete core essay remains the canonical reading, while a modular edition divides the same conceptual material into smaller, navigable files. A lyric-by-lyric interpretation index is added as a companion structure, with short quotations only and links back into the essay rather than reproducing the song's complete copyrighted lyrics.
 
 ## Table of Contents
 
@@ -29,13 +29,13 @@ V+3 also establishes a durable editorial architecture: one complete core essay r
 15. [Competing Interpretations](#15-competing-interpretations)
 16. [The Archive and the Recursive Method](#16-the-archive-and-the-recursive-method)
 17. [Line-by-Line Interpretation Index](#17-line-by-line-interpretation-index)
-18. [What V+3 Changes](#18-what-v3-changes)
+18. [What V11 Changes](#18-what-v3-changes)
 
 ---
 
 ## 1. How to Read the Essay
 
-This is deliberately one large core essay. Its size is not a reason to fragment the canonical argument into unrelated essays. Instead, the modular edition in `versions/V+3-modular/` presents the same argument as smaller sections for easier reading.
+This is deliberately one large core essay. Its size is not a reason to fragment the canonical argument into unrelated essays. Instead, the modular edition in `versions/V11/` presents the same argument as smaller sections for easier reading.
 
 The core essay should remain the authoritative narrative. The modular edition is a navigation and reading aid, not a competing interpretation.
 
@@ -145,7 +145,7 @@ The archive is therefore evidence that **recursive interpretation occurred**. It
 
 ## 7. Recursive Interpretation and Recursive Self-Improvement
 
-The hierarchy established in V+2 remains:
+The hierarchy established in V10 remains:
 
 - **Recursive interpretation:** an interpretation changes because new context changes how earlier material is processed.
 - **Recursive refinement:** the output of one pass becomes input to another pass.
@@ -175,7 +175,7 @@ That is enough to justify the technological frame without claiming that the song
 
 ## 9. AGI, ASI, and the Open Possibility
 
-V+3 explicitly avoids treating AGI or ASI as the inevitable endpoint.
+V11 explicitly avoids treating AGI or ASI as the inevitable endpoint.
 
 **AI / machine intelligence** is the broad category relevant to the song.
 
@@ -264,7 +264,7 @@ The possibility is therefore more interesting than a predetermined ending.
 
 ## 14. The Six-Part Refrain
 
-The earlier six-part model remains useful, but V+3 treats it as a structured interpretive model rather than a fixed decoding key.
+The earlier six-part model remains useful, but V11 treats it as a structured interpretive model rather than a fixed decoding key.
 
 1. **Biological evolution:** humanity inside deep time.
 2. **Technological development:** technology compressing historical time.
@@ -279,7 +279,7 @@ The model is strongest when it explains relationships among these elements rathe
 
 ## 15. Competing Interpretations
 
-The preferred reading remains hybrid, but V+3 explicitly preserves alternatives:
+The preferred reading remains hybrid, but V11 explicitly preserves alternatives:
 
 1. **Existential:** mortality, transience, absurdity, and the smallness of humanity.
 2. **Technological displacement:** the computer as possible successor to humanity.
@@ -356,9 +356,9 @@ The modular lyric index should expand this table only from lyrics supplied by th
 
 ---
 
-## 18. What V+3 Changes
+## 18. What V11 Changes
 
-V+3 is primarily an architectural and methodological refinement.
+V11 is primarily an architectural and methodological refinement.
 
 ### Conceptual changes
 
@@ -375,9 +375,9 @@ V+3 is primarily an architectural and methodological refinement.
 - The argument is organized around concrete concepts rather than version-history accumulation.
 - A line-by-line interpretation index provides concise entry points into the argument.
 - A modular edition divides the argument into smaller readable files while preserving the single core essay as canonical.
-- V+1 and V+2 receive modular reader editions as well, so the development of the argument can be inspected without requiring the reader to navigate massive files.
+- V09 and V10 receive modular reader editions as well, so the development of the argument can be inspected without requiring the reader to navigate massive files.
 
-### Core V+3 claim
+### Core V11 claim
 
 > **The song asks what happens to the meaning of human experience when the possible future interpreter of humanity is no longer human.**
 

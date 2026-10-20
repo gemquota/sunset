@@ -9,7 +9,7 @@
 3. **Yes**, every CIITV should include a “what this makes less certain” component.
 4. **Yes**, explanatory compression is useful if it does not conceptually weaken the explanation.
 5. Competing interpretations need to be **defined and developed**, not merely mentioned as objections.
-6. The user is **unsure** how much uncertainty should survive into V+2.
+6. The user is **unsure** how much uncertainty should survive into V10.
 
 ## Refined answer
 
@@ -28,9 +28,9 @@ The user's answer also suggests a useful methodological rule for future CIITVs:
 
 Explanatory compression remains useful, but only when compression preserves conceptual distinctions. A shorter explanation that quietly removes inconvenient evidence is not an improvement.
 
-Competing interpretations should therefore become real models rather than straw objections. V+2 begins this process by distinguishing existential, technological-displacement, epistemological, recursive-form, and hybrid readings. Future versions should test these against the same evidence.
+Competing interpretations should therefore become real models rather than straw objections. V10 begins this process by distinguishing existential, technological-displacement, epistemological, recursive-form, and hybrid readings. Future versions should test these against the same evidence.
 
-The unresolved uncertainty should remain visible. V+2 does not need to pretend that the central interpretation has been logically proved. Its methodological advance is precisely that it now has a mechanism for discovering where it may be wrong.
+The unresolved uncertainty should remain visible. V10 does not need to pretend that the central interpretation has been logically proved. Its methodological advance is precisely that it now has a mechanism for discovering where it may be wrong.
 
 ## Questions for further refinement
 

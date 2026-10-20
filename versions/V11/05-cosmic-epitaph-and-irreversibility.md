@@ -6,4 +6,4 @@ The same distinction applies to technological inheritance. A future machine coul
 
 Irreversibility adds a historical dimension. Once capabilities, infrastructure, and knowledge exist, they can alter the future possibility-space. Rewinding one decision does not necessarily restore the previous world.
 
-[Back to V+3](../V+3-open-ended-machine-successor-and-reader-architecture.md)
+[Back to V11](../V11-open-ended-machine-successor-and-reader-architecture.md)

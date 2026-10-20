@@ -1,4 +1,4 @@
-# Version -6B: Hypnotic Refrain and Three Temporal Scales
+# V01: Hypnotic Refrain and Three Temporal Scales
 
 ## Overview & Introduction
 

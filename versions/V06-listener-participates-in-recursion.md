@@ -1,4 +1,4 @@
-# Version -2: Recursive Interpretation as an Experience
+# V06: Recursive Interpretation as an Experience
 
 Jesse Welles's Will The Computer Love The Sunset may be the strongest example I've encountered of intentional repetition and other structural elements being used to progressively deepen a song's meaning.
 

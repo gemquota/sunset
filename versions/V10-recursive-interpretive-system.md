@@ -1,6 +1,6 @@
 # Will The Computer Love The Sunset: A Recursive Interpretive System
 
-**Version +2**
+**V10**
 
 ## Abstract
 
@@ -191,7 +191,7 @@ The strongest test of refinement is therefore whether a later pass can make an e
 
 ## 10. Competing interpretations are part of the method
 
-V+2 therefore introduces an explicit requirement that the analysis develop serious competing interpretations rather than merely accumulating support for the preferred one.
+V10 therefore introduces an explicit requirement that the analysis develop serious competing interpretations rather than merely accumulating support for the preferred one.
 
 At minimum, future analysis should distinguish among possibilities such as:
 
@@ -203,9 +203,9 @@ At minimum, future analysis should distinguish among possibilities such as:
 
 The fifth is currently the most comprehensive hypothesis, but it should remain a hypothesis. A good recursive interpretation should be able to explain why the alternatives fail, partially succeed, or reveal something the preferred reading misses.
 
-## 11. What V+2 changes
+## 11. What V10 changes
 
-V+1 established *Infinite Jest* as a useful external structural resonance. V+2 moves the centre of gravity back inward.
+V09 established *Infinite Jest* as a useful external structural resonance. V10 moves the centre of gravity back inward.
 
 Its principal CIITV is:
 

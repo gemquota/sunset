@@ -10,4 +10,4 @@ The central asymmetry is:
 
 Language, images, recordings, databases, code, art, and radio signals can preserve traces without preserving the embodied subject. This is why the sunset question is also a question about whether interpretation of an experience can ever become the experience itself.
 
-[Back to V+3](../V+3-open-ended-machine-successor-and-reader-architecture.md)
+[Back to V11](../V11-open-ended-machine-successor-and-reader-architecture.md)

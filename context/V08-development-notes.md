@@ -1,34 +1,34 @@
-# Version 0 development notes: Infinite Jest structural-resonance layer
+# V08 development notes: Infinite Jest structural-resonance layer
 
 ## Purpose
 
-These notes document the work that produced **Version 1**, the first new version after the repository's original numbering scheme was established. They preserve the pre-Infinite-Jest baseline, the confirmed insertion points, the Version 1 cut, and the remaining provenance question around any possible song-level *Infinite Jest* reference.
+These notes document the work that produced **V09**, the first new version after the repository's original numbering scheme was established. They preserve the pre-Infinite-Jest baseline, the confirmed insertion points, the V09 cut, and the remaining provenance question around any possible song-level *Infinite Jest* reference.
 
-The naming follows the repository's existing development-note convention: the notes are named for the version being departed from and document the work that produced the next version. Accordingly, these are **Version 0 development notes**, not Version 1 development notes.
+The naming follows the repository's existing development-note convention: the notes are named for the version being departed from and document the work that produced the next version. Accordingly, these are **V08 development notes**, not V09 development notes.
 
 ## Version numbering and lineage
 
-The repository's numbering began at the iteration current when the sequence was established. That iteration became **Version 0**.
+The repository's numbering began at the iteration current when the sequence was established. That iteration became **V08**.
 
 Earlier iterations were then added in reverse as increasing negative numbers:
 
-- **Version -1** = the iteration immediately before Version 0.
-- **Version -2** = the iteration before Version -1.
+- **V07** = the iteration immediately before V08.
+- **V06** = the iteration before V07.
 - and so on.
 
-The repository's historical lineage therefore runs backward numerically from Version 0. The original Reddit seed is recorded as **Version -10**. Version -10 was itself recursively improved approximately 5–10 times from the true original, **Version -20**.
+The repository's historical lineage therefore runs backward numerically from V08. The original Reddit seed is recorded as **the original Reddit seed**. the original Reddit seed was itself recursively improved approximately 5–10 times from the true original, **the true original source**.
 
-Versions below -10 therefore do **not** form a simple linear single-step chain. They should not be interpreted as though Version -11 were necessarily one revision directly before Version -10, or as though each negative number represents exactly one discrete refinement of the preceding number.
+Versions below -10 therefore do **not** form a simple linear single-step chain. They should not be interpreted as though V071 were necessarily one revision directly before the original Reddit seed, or as though each negative number represents exactly one discrete refinement of the preceding number.
 
-**Version 1 is the first new version after the numbering scheme began.** It adds the *Infinite Jest* structural-resonance layer to the Version 0 interpretation.
+**V09 is the first new version after the numbering scheme began.** It adds the *Infinite Jest* structural-resonance layer to the V08 interpretation.
 
 ## 1. Baseline freeze
 
 The root essay immediately before this work was treated as the pre-Infinite-Jest baseline.
 
-An existing `versions/Version-0.md` already preserved the six-part refrain / three-part interpretive structure that forms the substantive baseline. The current root additionally contained a short abstract at the top that was not present in that archival snapshot. Because the difference was limited to the root-level abstract rather than a substantive change to the interpretation, the existing Version 0 file remains the historical baseline, while the root itself was preserved before the new layer was added.
+An existing `versions/Version-0.md` already preserved the six-part refrain / three-part interpretive structure that forms the substantive baseline. The current root additionally contained a short abstract at the top that was not present in that archival snapshot. Because the difference was limited to the root-level abstract rather than a substantive change to the interpretation, the existing V08 file remains the historical baseline, while the root itself was preserved before the new layer was added.
 
-The important archival property is that the pre-Infinite-Jest interpretation remains independently recoverable and has not been overwritten by Version 1.
+The important archival property is that the pre-Infinite-Jest interpretation remains independently recoverable and has not been overwritten by V09.
 
 ## 2. The six confirmed insertion locations
 
@@ -120,7 +120,7 @@ Wallace places a self-referential object inside the fictional world. The song's 
 
 This distinction is preserved at the point of use so that the comparison cannot collapse into the vague claim that two works are “both recursive.”
 
-## 6. Version 1 cut
+## 6. V09 cut
 
 The new root essay was duplicated as:
 
@@ -128,7 +128,7 @@ The new root essay was duplicated as:
 
 This ensures the root and version history represent the same new interpretation rather than leaving the latest working state outside the archive.
 
-The Version 1 cut includes all six *Infinite Jest* attachments and retains the existing six-part refrain analysis, three temporal layers, representation-versus-experience argument, recursive interpretation argument, title analysis, and conclusion.
+The V09 cut includes all six *Infinite Jest* attachments and retains the existing six-part refrain analysis, three temporal layers, representation-versus-experience argument, recursive interpretation argument, title analysis, and conclusion.
 
 ## 7. Remaining open provenance question: is there an actual allusion?
 
@@ -139,7 +139,7 @@ That question has two distinct forms:
 1. **Song-level allusion claim:** If the essay claims that the song itself references Wallace's novel, it needs evidence at the lyric/source level, including a cited lyric and, ideally, independent evidence supporting the connection. The archive must not convert the interpreter's recognition into a fact about the song.
 2. **Interpreter-level resonance:** If the comparison is only that the phrase and the novel illuminate each other conceptually, no authorial allusion is required. The comparison can remain explicitly marked as resonance.
 
-Until evidence for the first claim exists, Version 1 uses the second framing.
+Until evidence for the first claim exists, V09 uses the second framing.
 
 ## 8. Why all six comparisons remain
 

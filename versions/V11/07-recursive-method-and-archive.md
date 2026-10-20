@@ -14,4 +14,4 @@ interpret → refine → seek support → seek disconfirmation → revise confid
 
 A future CIITV should state what it newly explains, which earlier claim it changes, what it makes less certain, and which competing interpretation it strengthens or weakens.
 
-[Back to V+3](../V+3-open-ended-machine-successor-and-reader-architecture.md)
+[Back to V11](../V11-open-ended-machine-successor-and-reader-architecture.md)

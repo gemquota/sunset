@@ -91,9 +91,9 @@ The previous Q17 formulation remains useful but should be sharpened:
 
 The essay can legitimately explore AGI and ASI as conceptual possibilities because the song explicitly places a computer in the position of a possible future subject. It should not claim that the song predicts either one.
 
-## What this changes in V+3
+## What this changes in V11
 
-V+3 should:
+V11 should:
 
 - stop treating AGI or ASI as an assumed endpoint;
 - use **AI / machine intelligence** as the default broad category;

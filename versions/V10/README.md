@@ -1,12 +1,12 @@
-# V+2 Modular Edition
+# V10 Modular Edition
 
-V+2 reframed the project as an explicit recursive interpretive system with methodological self-correction.
+V10 reframed the project as an explicit recursive interpretive system with methodological self-correction.
 
-This folder provides a digestible navigation layer for V+2 while preserving the canonical version as the single complete essay.
+This folder provides a digestible navigation layer for V10 while preserving the canonical version as the single complete essay.
 
 ## Canonical version
 
-[../V+2-recursive-interpretive-system.md](../V+2-recursive-interpretive-system.md)
+[../V10-recursive-interpretive-system.md](../V10-recursive-interpretive-system.md)
 
 ## Reading map
 
@@ -22,4 +22,4 @@ This folder provides a digestible navigation layer for V+2 while preserving the 
 10. **Competing interpretations** — existential, technological, epistemological, recursive-form, and hybrid readings.
 11. **CIITV** — explicit methodological self-correction.
 
-V+3 extends this architecture by making the future machine interpreter explicitly open-ended rather than treating AGI or ASI as an assumed endpoint.
+V11 extends this architecture by making the future machine interpreter explicitly open-ended rather than treating AGI or ASI as an assumed endpoint.

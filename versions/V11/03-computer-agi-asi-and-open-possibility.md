@@ -14,4 +14,4 @@ This opens questions about inheritance, interpretation, subjectivity, continuity
 
 The open ending is therefore part of the song's force. The question is what happens if the future interpreter is no longer human, not what exact future technology the song predicts.
 
-[Back to V+3](../V+3-open-ended-machine-successor-and-reader-architecture.md)
+[Back to V11](../V11-open-ended-machine-successor-and-reader-architecture.md)

@@ -4,7 +4,7 @@ This directory records five open questions selected to drive the next version of
 
 The purpose is not to manufacture consensus. The Q&A is intended to expose assumptions, identify genuine changes between CIITVs, preserve uncertainty, and develop competing interpretations before they are folded into a later version.
 
-## V+2 questions
+## V10 questions
 
 1. [Q05 — Three temporal layers](Q05-are-the-three-temporal-layers-nested-overlapping-or-causally-linked.md)
 2. [Q14 — Form enacts content](Q14-is-the-form-enacts-content-claim-demonstrated.md)

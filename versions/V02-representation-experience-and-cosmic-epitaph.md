@@ -1,4 +1,4 @@
-# Version -6A: Nested Timescales and Hypnotic Refrain
+# V02: Nested Timescales and Hypnotic Refrain
 
 ### Overview Introduction
 

@@ -16,4 +16,4 @@ The refrain can be read as inviting three nested scales:
 
 The third is a possibility, not an established future stage. The layers are nested and historically connected, but the song does not establish a deterministic sequence from evolution to technology to AI to extinction.
 
-[Back to V+3](../V+3-open-ended-machine-successor-and-reader-architecture.md)
+[Back to V11](../V11-open-ended-machine-successor-and-reader-architecture.md)

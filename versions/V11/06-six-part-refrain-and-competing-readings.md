@@ -13,4 +13,4 @@ Competing interpretations remain active: existential, technological displacement
 
 The hybrid reading is currently the most comprehensive hypothesis, not a proven conclusion.
 
-[Back to V+3](../V+3-open-ended-machine-successor-and-reader-architecture.md)
+[Back to V11](../V11-open-ended-machine-successor-and-reader-architecture.md)

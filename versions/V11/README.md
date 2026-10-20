@@ -1,8 +1,8 @@
-# V+3 Modular Edition
+# V11 Modular Edition
 
-A digestible, section-by-section reading edition of [V+3](../V+3-open-ended-machine-successor-and-reader-architecture.md).
+A digestible, section-by-section reading edition of [V11](../V11-open-ended-machine-successor-and-reader-architecture.md).
 
-The canonical V+3 argument remains the single core essay. These files divide the same conceptual architecture into smaller units for easier reading and navigation.
+The canonical V11 argument remains the single core essay. These files divide the same conceptual architecture into smaller units for easier reading and navigation.
 
 ## Reading order
 

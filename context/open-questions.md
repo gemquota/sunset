@@ -120,7 +120,7 @@ These issues were selected for focused discussion because they involve discrete 
 | What is the stopping condition for recursive revision? | [#2](https://github.com/gemquota/sunset/issues/2) |
 | Does the essay demonstrate that form enacts content? | [#3](https://github.com/gemquota/sunset/issues/3) |
 | How should the missing original Reddit comment be represented? | [#4](https://github.com/gemquota/sunset/issues/4) |
-| Should Version -6A/-6B remain a visible fork? | [#5](https://github.com/gemquota/sunset/issues/5) |
+| Should V02/-6B remain a visible fork? | [#5](https://github.com/gemquota/sunset/issues/5) |
 | What would falsify or constrain the three-layer temporal reading? | [#6](https://github.com/gemquota/sunset/issues/6) |
 
 [Issue #1](https://github.com/gemquota/sunset/issues/1) separately tracks the choice between the meaning-first and thesis-first openings.
@@ -248,7 +248,7 @@ These questions address navigation, contribution, and editorial governance. Some
 <a id="q27"></a>
 ### Q27. Should the development notes link directly from the README's suggested reading order?
 
-**Addressed:** the README's reading order links to the Version -6A/-6B development notes.
+**Addressed:** the README's reading order links to the V02/-6B development notes.
 
 <a id="q28"></a>
 ### Q28. How should the project invite critique without turning the archive into an unstable consensus document?

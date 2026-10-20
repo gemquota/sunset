@@ -105,4 +105,4 @@ The full six-part treatment is retained here so that the archive preserves the r
 
 ## Provenance note
 
-This layer was developed after the original Reddit seed and is therefore an author/interpreter addition to the repository's later interpretive history. It is not part of Version -10 or the true original seed described by the repository's versioning notes.
+This layer was developed after the original Reddit seed and is therefore an author/interpreter addition to the repository's later interpretive history. It is not part of the original Reddit seed or the true original seed described by the repository's versioning notes.

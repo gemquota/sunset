@@ -13,4 +13,4 @@ One interpretive result becomes context for the next pass. The song does not cha
 
 This supports a cognition-level recursive interpretation without claiming that listening is literally equivalent to machine recursive self-improvement.
 
-[Back to V+3](../V+3-open-ended-machine-successor-and-reader-architecture.md)
+[Back to V11](../V11-open-ended-machine-successor-and-reader-architecture.md)

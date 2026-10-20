@@ -34,4 +34,4 @@ The “multiplicative” point can be made more precisely. A recursive improveme
 2. Can a discovery count as recursive if it changes the interpretation of only one earlier passage?
 3. Does the opening refrain discovery imply that the song itself was designed to provoke this question, or only that it permits it unusually well?
 4. What would a genuinely non-recursive revision of this project look like?
-5. Should V+2 explicitly distinguish **new information** from **new interpretive structure**?
+5. Should V10 explicitly distinguish **new information** from **new interpretive structure**?

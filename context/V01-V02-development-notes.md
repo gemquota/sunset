@@ -1,4 +1,4 @@
-# Version -6A and -6B: Context, Structural Analysis, and Revision Decisions
+# V02 and -6B: Context, Structural Analysis, and Revision Decisions
 
 **Purpose:** Preserve the discussion informing Versions -6A and -6B. This is contextual and editorial material, not a replacement for either version. It records competing openings, the reasoning for the preferred sequence, the insight that repetition itself enacts the song's hypnotic subject, and agreed revision guidance.
 
@@ -6,7 +6,7 @@
 
 Two arrangements were compared.
 
-### Version 1: Meaning first, function second
+### V09: Meaning first, function second
 
 **Order:** Concept and meaning → structural function.
 
@@ -14,7 +14,7 @@ This arrangement first proposes a hypothetical thematic reading: the refrain's r
 
 **Effect:** The thematic stakes build toward the structural claim. The paragraph ends with “nested framework,” creating a direct bridge into the subsequent explanation of the refrain as a philosophical camera telescoping through three layers.
 
-### Version 2: Thesis first, deep-dive second
+### V10: Thesis first, deep-dive second
 
 **Order:** Strong claim → structural function → concept and meaning.
 
@@ -24,18 +24,18 @@ This arrangement establishes the structural point early, then concludes with the
 
 ### Comparison
 
-| Feature | Version 1 | Version 2 |
+| Feature | V09 | V10 |
 |---|---|---|
 | Pacing | Builds toward the nested-framework conclusion | Establishes the framework early, then ends on the thematic takeaway |
 | Climax | Structural mechanics and nested time scales | Dramatic thematic imagery: “midwife our demise” |
 | Strength | Integrated progression from theme to form | Clear thesis-first academic structure |
 | Best use | A seamless lead-in to the telescoping-layer analysis | A self-contained argument that prioritizes its thematic ending |
 
-**Editorial preference:** Use Version 1 when the paragraph is immediately followed by the layer analysis. Its final phrase, “nested framework,” is picked up naturally by the next discussion of recursive loops and telescoping temporal layers. Version 2 ends on the thematic image and makes the following return to structural mechanics feel like a double-back.
+**Editorial preference:** Use V09 when the paragraph is immediately followed by the layer analysis. Its final phrase, “nested framework,” is picked up naturally by the next discussion of recursive loops and telescoping temporal layers. V10 ends on the thematic image and makes the following return to structural mechanics feel like a double-back.
 
 ## 2. Preferred opening formulation
 
-The following is the proposed Version 1-style opening, incorporating the later insight that the repetition itself embodies the song's subject:
+The following is the proposed V09-style opening, incorporating the later insight that the repetition itself embodies the song's subject:
 
 > Jesse Welles’s “Will The Computer Love The Sunset” may be the best example of intentional repetition within any piece of music I have ever experienced. The repetition is intended to be hypnotic, contextually referencing the trance-like fascination humanity has had induced by the allure of the potential of ASI, causing it to willingly walk into its own automated erasure—or, as Jesse puts it, midwife our demise. Far beyond simple lyrical filler, the hypnotic repetition is itself a conceptual embodiment of the song's subject, functioning as a deliberate structural device to pack multiple, wildly distinct time frames and concepts into a cohesive, nested framework.
 

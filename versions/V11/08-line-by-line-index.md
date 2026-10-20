@@ -46,7 +46,7 @@ This index treats every supplied source line as an individual unit, including re
 | 28 | Returns to the original storytelling gesture, making the song itself recursively revisit its opening premise. | §6 The Listener as Recursive Participant |
 | 29 | Adds a promise that humanity does its best, complicating the earlier account of war and technological danger. | §15 Competing Interpretations |
 | 30 | Introduces mortality and laughter together, destabilizing the boundary between existential dread and absurdity. | §15 Competing Interpretations |
-| 31 | The *Infinite Jest* phrase links laughter to an apparently infinite or cosmic scale while retaining the explicit structural-resonance boundary. | §15 Competing Interpretations; V+1 structural resonance |
+| 31 | The *Infinite Jest* phrase links laughter to an apparently infinite or cosmic scale while retaining the explicit structural-resonance boundary. | §15 Competing Interpretations; V09 structural resonance |
 | 32 | A request for rest interrupts the cosmic argument and returns it to embodied human limitation. | §10 Representation and Experience |
 
 ## Second chorus occurrence
@@ -80,7 +80,7 @@ This index treats every supplied source line as an individual unit, including re
 | 47 | The apparent lack of meaning remains unresolved even after the song has supplied substantial context, which prevents the interpretation from becoming a simple answer. | §9 Open Possibility |
 | 48 | The apparent contradiction between nothing and something becomes part of the song's epistemological play. | §11 Limits of Representation |
 | 49 | The line functions as an interpretive attitude toward uncertainty rather than a proposition that can be proved. | §15 Competing Interpretations |
-| 50 | The song ends by returning to living rather than resolving whether the computer can love, whether humanity survives, or what the cosmos means. The open ending is therefore part of the point. | §9 Open Possibility; §18 What V+3 Changes |
+| 50 | The song ends by returning to living rather than resolving whether the computer can love, whether humanity survives, or what the cosmos means. The open ending is therefore part of the point. | §9 Open Possibility; §18 What V11 Changes |
 
 ## Repetition as evidence
 
