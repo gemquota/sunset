@@ -72,7 +72,7 @@ The repository root intentionally contains only the current essay and this READM
 | **V05** | Recursive interpretation: later information changes how earlier material is understood. |
 | **V06** | The listener participates in the recursion; the song becomes a small-scale experience of recursive refinement. |
 | **V07** | Unifies the interpretive components into one recursive framework. |
-| **0** | Formalizes the framework as a six-part refrain model nested within three temporal layers. |
+| **V08** | Formalizes the framework as a six-part refrain model nested within three temporal layers. |
 | **V09** | Adds distributed *Infinite Jest* structural resonance while preserving the V08 argument as the centre of gravity. |
 | **V10** | Makes the interpretation an explicit recursive system: nested temporal structure, form-as-enactment, cognition-level recursion, competing interpretations, and methodological self-correction. |
 | **V11** | Makes the future machine interpreter explicitly open-ended, separates possibility from prediction, and establishes the core/modular/line-index architecture. |
