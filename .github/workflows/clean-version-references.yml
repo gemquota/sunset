@@ -1,0 +1,30 @@
+name: clean-version-references
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  clean:
+    if: ${{ !contains(github.event.head_commit.message, 'Clean version references') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Clean remaining references
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          find . -type f -not -path './.git/*' -not -path './.github/*' -print0 | while IFS= read -r -d '' f; do
+            perl -0pi -e 's/Versions? -6A/V02/g; s/Versions? -6B/V01/g; s/Versions? -5/V03/g; s/Versions? -4/V04/g; s/Versions? -3/V05/g; s/Versions? -2/V06/g; s/Versions? -1/V07/g; s/Versions? -0/V08/g; s/Versions? \+1/V09/g; s/Versions? \+2/V10/g; s/Versions? \+3/V11/g; s/\*\*-6A\*\*/**V02**/g; s/\*\*-6B\*\*/**V01**/g; s/\*\*-5\*\*/**V03**/g; s/\*\*-4\*\*/**V04**/g; s/\*\*-3\*\*/**V05**/g; s/\*\*-2\*\*/**V06**/g; s/\*\*-1\*\*/**V07**/g; s/\*\*-0\*\*/**V08**/g; s/\*\*\+1\*\*/**V09**/g; s/\*\*\+2\*\*/**V10**/g; s/\*\*\+3\*\*/**V11**/g; s/negative-numbered/sequentially numbered/g; s/versions below -10/earlier source material/g; s/version-minus-6a-6b-development-notes\.md/V01-V02-development-notes.md/g; s/version-0-development-notes\.md/V08-development-notes.md/g' "$f"
+          done
+          git add -A
+          git commit -m "Clean version references"
+          git push
+          rm -f .github/workflows/clean-version-references.yml
+          git add -A
+          git commit -m "Remove reference cleanup workflow"
+          git push
