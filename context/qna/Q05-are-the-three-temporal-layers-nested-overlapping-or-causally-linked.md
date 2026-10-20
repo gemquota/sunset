@@ -1,26 +1,37 @@
 # Q05 — Are the three temporal layers nested, overlapping, or causally linked?
 
-**Status:** Proposed answer awaiting user refinement
-**Source question:** Q05 in `context/open-questions.md`
+**Status:** Refined from user response
 
-## Proposed answer
+## User's answers
 
-The strongest reading is that the three temporal layers are **nested structurally and causally linked, but not identical**.
+1. **Nested.**
+2. **Maybe** to the idea that war/greed material is part of the causal bridge.
+3. **Seemingly** to whether “in between the time” itself establishes the nesting.
+4. **Unknown** whether AI is a genuinely separate third temporal scale or the endpoint of technological development.
+5. **Unsure** what would make the causal reading too deterministic.
 
-The refrain can be heard as progressively narrowing the temporal frame: biological evolution contains human technological development, which contains the development of AI. That is the cleanest sense in which the layers are nested.
+## Refined answer
 
-The song's references to conflict, competition, resources, and technological development also support a weaker causal relationship. Human history produces the conditions in which technology develops; technological development produces the conditions in which AI becomes possible. But the song does not establish a deterministic chain in which biological evolution inevitably causes AI or AI inevitably causes human extinction.
+The primary relationship should be treated as **nested temporal structure**. The repeated construction of “in between the time” seems to invite the listener to ask what could exist between multiple layers of time, and the surrounding song provides material that makes a three-scale interpretation plausible.
 
-So the proposed formulation is:
+The three layers can provisionally be described as:
 
-> **Nested in scale, connected in history, but not proven to be causally deterministic.**
+1. biological/evolutionary time;
+2. human/technological time;
+3. AI or post-human time.
 
-This distinction matters because treating the layers as merely overlapping weakens the formal reading, while treating them as an inevitable causal chain imports more certainty than the text supports.
+The causal relationship should remain secondary and qualified. The song appears to connect human behaviour, conflict, technological development, and the emergence of increasingly powerful machines, but it is not yet clear that these form a deterministic chain. The war/greed material may function as part of that bridge, but the claim needs further textual support before being elevated to a central mechanism.
 
-## Questions for the user
+The status of the third layer is deliberately left open. It may be a distinct temporal scale, or it may be the conceptual horizon reached by technological time. The interpretation does not currently require deciding between those possibilities.
 
-1. Do you hear the three layers primarily as **nested time**, **causal progression**, or an intentional combination of both?
-2. Should the war/greed material be treated as part of the causal bridge from humanity to technology, or mainly as thematic background?
-3. Does “in between the time” itself justify the nesting claim, or do the surrounding verses do most of the work?
-4. Should the AI layer be framed as an actual third temporal scale, or as the conceptual endpoint of the second layer?
-5. What would make this reading too deterministic for your taste?
+**Working formulation:**
+
+> **The refrain appears to construct nested temporal scales. Those scales may also form a historical or causal trajectory, but the causal relationship and the exact status of AI as a third scale remain open.**
+
+## Questions for further refinement
+
+1. If the third layer is not necessarily separate from technological time, what makes the repeated “in between” feel like three layers rather than two?
+2. Does the song's movement from human history toward the computer make the third layer qualitatively different, even if it is temporally continuous with technology?
+3. Which lines besides the refrain most strongly support the nesting?
+4. Does the uncertainty about causality strengthen the interpretation by preventing it from becoming a prediction?
+5. What evidence would make the three-layer model fail rather than merely require modification?
